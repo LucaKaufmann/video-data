@@ -3,6 +3,7 @@
     "mainColor": "111920",
     "accentColor": "EA575B",
     "backgroundColor": "EBE8E2",
+    "url": "https://raw.githubusercontent.com/LucaKaufmann/video-data/master/data.json",
     "topics" : [
         {
             "title": "Sova",
