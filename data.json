@@ -6,200 +6,153 @@
     "url": "https://raw.githubusercontent.com/LucaKaufmann/video-data/master/data.json",
     "topics" : [
         {
-            "title": "Sova",
+            "title": "Viper",
             "id": 1,
             "subTopics": [
                 {
-                    "id": 101,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Recon arrow", "Shock dart", "Ult"],
-                    "videos": [
-                        {
-                            "id": 10101,
-                            "title": "A plant and back side",
-                            "url": "local:sova_haven_a_a_back",
-                            "description": "",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10102,
-                            "title": "A long sniper",
-                            "url": "local:sova_haven_a_a_long",
-                            "description": "Hitting orb and snipers on A long",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10103,
-                            "title": "A roof",
-                            "url": "local:sova_haven_a_a_roof",
-                            "description": "Hitting the roof on A",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10104,
-                            "title": "A attacker Spawn",
-                            "url": "local:sova_haven_d_a_spawn",
-                            "description": "Area close to the attacker spawn leading to A long and sewers",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10105,
-                            "title": "A plant",
-                            "url": "local:sova_haven_a_d_a_plant",
-                            "description": "A plant area from B",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10106,
-                            "title": "B outside",
-                            "url": "local:sova_haven_a_b_outside",
-                            "description": "B outside area",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10107,
-                            "title": "B plant",
-                            "url": "local:sova_haven_a_d_b_plant",
-                            "description": "B plant area",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10108,
-                            "title": "B garage",
-                            "url": "local:sova_haven_d_garage_lobby",
-                            "description": "B garage lobby",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10109,
-                            "title": "Attacker garage",
-                            "url": "local:sova_haven_a_garage",
-                            "description": "Garage from attacker spawn",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10110,
-                            "title": "Attacker C plant",
-                            "url": "local:sova_haven_a_c_plant",
-                            "description": "C plant from attacker side",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10111,
-                            "title": "Defender C plant",
-                            "url": "local:sova_haven_d_c_plant",
-                            "description": "C plant from defender side (B)",
-                            "tags": ["attack", "smoke"]
-                        },
-                    ]
-                },
-                {
-                    "id": 102,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["Smoke", "Wall", "Bite"],
-                    "videos": [
-                        {
-                            "id": 10201,
-                            "title": "A defender",
-                            "url": "https://google.com",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10202,
-                            "title": "B defender",
-                            "url": "https://google.com",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10203,
-                            "title": "Youtube test",
-                            "url": "https://www.youtube.com/watch?v=KONY-rv9Du4",
-                            "tags": ["attack", "smoke"]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Viper",
-            "id": 2,
-            "subTopics": [
-                {
                     "id": 201,
-                    "title": "Haven",
+                    "title": "Bind",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Smoke", "Wall", "Bite"],
                     "videos": [
                         {
                             "id": 20101,
-                            "title": "A back side",
-                            "url": "local:viper_haven_a_a_back",
-                            "description": "Smoke covering spawn entrance on A",
-                            "tags": ["attack", "smoke"]
+                            "title": "A short one way smoke",
+                            "url": "https://youtu.be/CUfbsu49CWU",
+                            "description": "One way smoke on A long",
+                            "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 20102,
-                            "title": "A wall and Heaven smoke",
-                            "url": "local:viper_haven_a_a_execute",
-                            "description": "Wall and smoke on A",
-                            "tags": ["attack", "smoke", "wall"]
+                            "title": "A bath one way smoke",
+                            "url": "https://youtu.be/z83irbyWEdU",
+                            "description": "One way smoke on A bath",
+                            "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 20103,
-                            "title": "A heaven",
-                            "url": "local:viper_haven_a_a_heaven",
-                            "description": "Smoke into A heaven",
-                            "tags": ["attack", "smoke"]
+                            "title": "A/B Wall",
+                            "url": "https://youtu.be/GdBGswCnEPs",
+                            "description": "Wall from A to B covering hookah and B",
+                            "tags": ["defense", "wall"]
                         },
                         {
                             "id": 20104,
-                            "title": "A long",
-                            "url": "local:viper_haven_a_a_long",
-                            "description": "Smoke covering A long into A",
-                            "tags": ["attack", "smoke"]
+                            "title": "B Wall",
+                            "url": "https://youtu.be/_RWhSz2Ul0w",
+                            "description": "Wall covering B",
+                            "tags": ["attack", "wall"]
                         },
                         {
                             "id": 20105,
-                            "title": "A ult",
-                            "url": "local:viper_haven_a_a_ult",
-                            "description": "Spot for Viper ult on A, allows planting and covers A long",
+                            "title": "B ult",
+                            "url": "https://youtu.be/ZBbiUe32VmM",
+                            "description": "Ult spot in hookah, covers parts of B for planting",
                             "tags": ["attack", "ult"]
                         },
                         {
                             "id": 20106,
-                            "title": "A wall and heaven smoke 2",
-                            "url": "local:viper_haven_a_a_wall_smoke",
-                            "description": "A wall and smoke covering heaven",
-                            "tags": ["attack", "smoke", "wall"]
+                            "title": "B spawn smoke",
+                            "url": "https://youtu.be/f5-MP94CdrE",
+                            "description": "Smoke covering B spawn",
+                            "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20107,
-                            "title": "C point",
-                            "url": "local:viper_haven_a_c_point",
-                            "description": "Smoke covering C point",
+                            "title": "B point",
+                            "url": "https://youtu.be/NE5OI6JKAAc",
+                            "description": "Smoke covering B point",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20108,
-                            "title": "C point 2",
-                            "url": "local:viper_haven_a_c_point_2",
-                            "description": "Smoke covering C point",
+                            "title": "B elbow smoke",
+                            "url": "https://youtu.be/b275US-Hk3k",
+                            "description": "Smoke covering B elbow",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20109,
-                            "title": "C point from defender spawn",
-                            "url": "local:viper_haven_d_c_spawn",
-                            "description": "Smoke covering C point from defender spawn",
-                            "tags": ["defense", "smoke"]
+                            "title": "A wall",
+                            "url": "https://youtu.be/BOpSQHuDnmc",
+                            "description": "A wall from mid",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 20110,
+                            "title": "A wall #2",
+                            "url": "https://youtu.be/ppr1Q_H2cWE",
+                            "description": "A wall from attacker spawn",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 20111,
+                            "title": "A point smoke",
+                            "url": "https://youtu.be/3CEYsM2VwZY",
+                            "description": "A point smoke from mid",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20112,
+                            "title": "A point smoke #2",
+                            "url": "https://youtu.be/ZFxQIIjniDc",
+                            "description": "A point smoke from attacker spawn",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20113,
+                            "title": "A point bite",
+                            "url": "https://youtu.be/_7d0E_4woAg",
+                            "description": "A point snake bite behind boxes",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 20114,
+                            "title": "A heaven smoke #1",
+                            "url": "https://youtu.be/3hp1FbPJ9QM",
+                            "description": "A heaven smoke from attacker spawn",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20115,
+                            "title": "A heaven smoke #2",
+                            "url": "https://youtu.be/T50PwVWYous",
+                            "description": "A heaven smoke from bath",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20116,
+                            "title": "A heaven smoke #3",
+                            "url": "https://youtu.be/dkZZ4jDvUf4",
+                            "description": "A heaven smoke from bath",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20117,
+                            "title": "A execute from mid",
+                            "url": "https://youtu.be/NAHGQMpbjbQ",
+                            "description": "A wall and smoke from mid",
+                            "tags": ["attack", "smoke", "wall"]
+                        },
+                        {
+                            "id": 20118,
+                            "title": "A Snakebite bath",
+                            "url": "https://youtu.be/NiXVgV0aIWg",
+                            "description": "A Snakebite on the boxes to the right side of the bath exit",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 20119,
+                            "title": "A Ult bath",
+                            "url": "https://youtu.be/j8WDB0QXt6g",
+                            "description": "A Ult from bath",
+                            "tags": ["attack", "ult"]
                         }
                     ]
                 },
                 {
                     "id": 202,
-                    "title": "Bind",
+                    "title": "Haven",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Smoke", "Wall", "Bite"],
                     "videos": [
