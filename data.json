@@ -8,6 +8,32 @@
         {
             "title": "Viper",
             "id": 1,
+            "thumbnails": [
+                {
+                    "id": "smoke",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/poison-cloud-black.png"
+                },
+                {
+                    "id": "bite",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/snake-bite-black.png"
+                },
+                {
+                    "id": "wall",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/toxic-screen-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/vipers-pit-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
             "subTopics": [
                 {
                     "id": 201,
