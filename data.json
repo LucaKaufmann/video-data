@@ -8,6 +8,7 @@
         {
             "title": "Viper",
             "id": 1,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/vipers-pit-black.png",
             "thumbnails": [
                 {
                     "id": "smoke",
