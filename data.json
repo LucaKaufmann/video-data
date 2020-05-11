@@ -3,6 +3,7 @@
     "mainColor": "111920",
     "accentColor": "EA575B",
     "backgroundColor": "EBE8E2",
+    "font": "VALORANT",
     "url": "https://raw.githubusercontent.com/LucaKaufmann/video-data/master/data.json",
     "topics" : [
         {
@@ -44,14 +45,14 @@
                     "videos": [
                         {
                             "id": 20101,
-                            "title": "A short one way smoke",
+                            "title": "A short one way",
                             "url": "https://www.youtube.com/watch?v=CUfbsu49CWU",
                             "description": "One way smoke on A long",
                             "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 20102,
-                            "title": "A bath one way smoke",
+                            "title": "A bath one way",
                             "url": "https://youtu.be/z83irbyWEdU",
                             "description": "One way smoke on A bath",
                             "tags": ["defense", "smoke"]
@@ -79,7 +80,7 @@
                         },
                         {
                             "id": 20106,
-                            "title": "B spawn smoke",
+                            "title": "B spawn",
                             "url": "https://youtu.be/f5-MP94CdrE",
                             "description": "Smoke covering B spawn",
                             "tags": ["attack", "smoke"]
@@ -93,63 +94,63 @@
                         },
                         {
                             "id": 20108,
-                            "title": "B elbow smoke",
+                            "title": "B elbow",
                             "url": "https://youtu.be/b275US-Hk3k",
                             "description": "Smoke covering B elbow",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20109,
-                            "title": "A wall",
+                            "title": "A",
                             "url": "https://youtu.be/BOpSQHuDnmc",
                             "description": "A wall from mid",
                             "tags": ["attack", "wall"]
                         },
                         {
                             "id": 20110,
-                            "title": "A wall #2",
+                            "title": "A #2",
                             "url": "https://youtu.be/ppr1Q_H2cWE",
                             "description": "A wall from attacker spawn",
                             "tags": ["attack", "wall"]
                         },
                         {
                             "id": 20111,
-                            "title": "A point smoke",
+                            "title": "A point",
                             "url": "https://youtu.be/3CEYsM2VwZY",
                             "description": "A point smoke from mid",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20112,
-                            "title": "A point smoke #2",
+                            "title": "A point #2",
                             "url": "https://youtu.be/ZFxQIIjniDc",
                             "description": "A point smoke from attacker spawn",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20113,
-                            "title": "A point bite",
+                            "title": "A point",
                             "url": "https://youtu.be/_7d0E_4woAg",
                             "description": "A point snake bite behind boxes",
                             "tags": ["attack", "bite"]
                         },
                         {
                             "id": 20114,
-                            "title": "A heaven smoke #1",
+                            "title": "A heaven #1",
                             "url": "https://youtu.be/3hp1FbPJ9QM",
                             "description": "A heaven smoke from attacker spawn",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20115,
-                            "title": "A heaven smoke #2",
+                            "title": "A heaven #2",
                             "url": "https://youtu.be/T50PwVWYous",
                             "description": "A heaven smoke from bath",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20116,
-                            "title": "A heaven smoke #3",
+                            "title": "A heaven #3",
                             "url": "https://youtu.be/dkZZ4jDvUf4",
                             "description": "A heaven smoke from bath",
                             "tags": ["attack", "smoke"]
@@ -163,14 +164,14 @@
                         },
                         {
                             "id": 20118,
-                            "title": "A Snakebite bath",
+                            "title": "A bath",
                             "url": "https://youtu.be/NiXVgV0aIWg",
                             "description": "A Snakebite on the boxes to the right side of the bath exit",
                             "tags": ["attack", "bite"]
                         },
                         {
                             "id": 20119,
-                            "title": "A Ult bath",
+                            "title": "A bath",
                             "url": "https://youtu.be/j8WDB0QXt6g",
                             "description": "A Ult from bath",
                             "tags": ["attack", "ult"]
@@ -213,7 +214,7 @@
                         },
                         {
                             "id": 20205,
-                            "title": "A wall",
+                            "title": "A",
                             "url": "https://youtu.be/Ti6r4uZQUjU",
                             "description": "Wall splitting A",
                             "tags": ["attack", "wall"]
@@ -333,7 +334,7 @@
                         },
                         {
                             "id": 20308,
-                            "title": "A bites",
+                            "title": "A",
                             "url": "https://youtu.be/V8EAlpzKPFs",
                             "description": "Snakebite for A rafters and corner",
                             "tags": ["attack", "bite"]
