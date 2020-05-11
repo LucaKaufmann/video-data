@@ -39,7 +39,7 @@
                     "id": 201,
                     "title": "Bind",
                     "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Smoke", "Wall", "Bite"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
                             "id": 20101,
@@ -180,7 +180,7 @@
                     "id": 202,
                     "title": "Haven",
                     "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Smoke", "Wall", "Bite"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
                             "id": 20201,
@@ -279,7 +279,7 @@
                     "id": 203,
                     "title": "Split",
                     "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Smoke", "Wall", "Bite"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
                             "id": 20301,
