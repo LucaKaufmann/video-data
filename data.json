@@ -158,101 +158,94 @@
                     "videos": [
                         {
                             "id": 20201,
-                            "title": "A heaven smoke from spawn",
-                            "url": "local:viper_bind_atk_a_heaven",
-                            "description": "Smoke into A heaven from attacker spawn",
-                            "tags": ["attack", "bite"]
+                            "title": "A spawn",
+                            "url": "https://youtu.be/H0DmVDzUSdM",
+                            "description": "Smoke into A covering spawn entrance",
+                            "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20202,
-                            "title": "A heaven smoke from teleporter",
-                            "url": "local:viper_bind_atk_a_heaven_2",
-                            "description": "Smoke covering A heaven from teleporter",
+                            "title": "A long",
+                            "url": "https://youtu.be/0gk_Vfw_ueM",
+                            "description": "Smoke covering A long",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20203,
-                            "title": "A heaven smoke",
-                            "url": "local:viper_bind_atk_a_heaven_3",
-                            "description": "Smoke covering A heaven from teleporter",
+                            "title": "A heaven",
+                            "url": "https://youtu.be/2L94hnUNv78",
+                            "description": "Smoke covering A heaven",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20204,
-                            "title": "A execute",
-                            "url": "local:viper_bind_atk_a_execute",
-                            "description": "A execute",
+                            "title": "A heaven #2",
+                            "url": "https://youtu.be/U6qVOAfs7_M",
+                            "description": "Smoke covering A heaven",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20205,
-                            "title": "A ult from bath",
-                            "url": "local:viper_bind_atk_a_bath_ult",
-                            "description": "A ult from bath",
-                            "tags": ["attack", "smoke"]
+                            "title": "A wall",
+                            "url": "https://youtu.be/Ti6r4uZQUjU",
+                            "description": "Wall splitting A",
+                            "tags": ["attack", "wall"]
                         },
                         {
                             "id": 20206,
-                            "title": "A point snake bite",
-                            "url": "local:viper_bind_atk_a_point",
-                            "description": "Snake bite on A point behind boxes",
-                            "tags": ["attack", "bite"]
+                            "title": "B mid",
+                            "url": "https://youtu.be/w_6UFE0ec9Q",
+                            "description": "B mid smoke",
+                            "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 20207,
-                            "title": "A point snake bite",
-                            "url": "local:viper_bind_atk_a_boxes",
-                            "description": "Smoke into A heaven from attacker spawn",
+                            "title": "C point",
+                            "url": "https://youtu.be/-XAjoCj_kN0",
+                            "description": "C point smoke",
                             "tags": ["attack", "bite"]
                         },
                         {
                             "id": 20208,
-                            "title": "A wall",
-                            "url": "local:viper_bind_atk_a_wall",
-                            "description": "Wall on A from left side",
-                            "tags": ["attack", "wall"]
+                            "title": "B window",
+                            "url": "https://youtu.be/drF6DZ0iqAY",
+                            "description": "B window bites and smoke",
+                            "tags": ["defense", "smoke", "bite"]
                         },
                         {
                             "id": 20209,
-                            "title": "A point left",
-                            "url": "local:viper_bind_atk_a_point",
-                            "description": "Wall on A from left side",
-                            "tags": ["attack", "wall"]
+                            "title": "Garage one way",
+                            "url": "https://youtu.be/3CJEHdg7bwg",
+                            "description": "Garage one way smoke",
+                            "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 20210,
-                            "title": "B elbow",
-                            "url": "local:viper_bind_atk_b_elbow",
-                            "description": "Smoke covering B elbow",
-                            "tags": ["attack", "smoke"]
+                            "title": "B one way",
+                            "url": "https://youtu.be/4bnsxl1RHf8",
+                            "description": "One way smoke on b",
+                            "tags": ["attack", "defense", "smoke"]
                         },
                         {
                             "id": 20211,
-                            "title": "B point smoke",
-                            "url": "local:viper_bind_atk_b_point",
-                            "description": "Smoke on B point",
-                            "tags": ["attack", "smoke"]
+                            "title": "A sewer",
+                            "url": "https://youtu.be/0GPFpAuRaNA",
+                            "description": "A sewer one way",
+                            "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 20212,
-                            "title": "B spawn smoke",
-                            "url": "local:viper_bind_atk_b_spawn",
-                            "description": "Smoke covering CT spawn on B",
-                            "tags": ["attack", "smoke"]
+                            "title": "A main",
+                            "url": "https://youtu.be/rZQLADizD1g",
+                            "description": "A main one way smoke",
+                            "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 20213,
-                            "title": "B ultimate",
-                            "url": "local:viper_bind_atk_b_ult",
-                            "description": "B ult",
-                            "tags": ["attack", "ult"]
-                        },
-                        {
-                            "id": 20214,
-                            "title": "B wall",
-                            "url": "local:viper_bind_atk_b_wall",
-                            "description": "B wall",
-                            "tags": ["attack", "wall"]
+                            "title": "A B wall",
+                            "url": "https://youtu.be/411gfmi9ScE",
+                            "description": "Wall covering A and B",
+                            "tags": ["defense", "wall"]
                         }
                     ]
                 },
@@ -264,45 +257,101 @@
                     "videos": [
                         {
                             "id": 20301,
-                            "title": "A heaven",
-                            "url": "local:viper_split_a_a_heaven",
-                            "description": "Smoke covering A heaven",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 20302,
-                            "title": "A mid wall and smoke",
-                            "url": "local:viper_split_a_wall_smoke",
-                            "description": "Wall covering mid, A heaven and A spawn",
-                            "tags": ["attack", "smoke", "wall"]
-                        },
-                        {
-                            "id": 20303,
-                            "title": "B heaven and rafters",
-                            "url": "local:viper_split_a_b_heaven_rafters",
-                            "description": "Smoke and wall covering B heaven and rafters",
-                            "tags": ["attack", "smoke", "wall"]
-                        },
-                        {
-                            "id": 20304,
                             "title": "B heaven",
-                            "url": "local:viper_split_a_b_heaven",
+                            "url": "https://youtu.be/cZD22M2YbFo",
                             "description": "Smoke covering B heaven",
                             "tags": ["attack", "smoke"]
                         },
                         {
-                            "id": 20205,
-                            "title": "B point wall and smoke",
-                            "url": "local:viper_bind_a_b_wall_smoke",
-                            "description": "Wall and smoke B",
-                            "tags": ["attack", "smoke", "wall"]
+                            "id": 20302,
+                            "title": "B execute",
+                            "url": "https://youtu.be/ujuhZF1Prik",
+                            "description": "Wall, smoke and bite for B",
+                            "tags": ["attack", "smoke", "wall", "bite"]
                         },
                         {
-                            "id": 20206,
-                            "title": "B execute",
-                            "url": "local:viper_split_a_b_execute",
-                            "description": "Wall and smoke B",
-                            "tags": ["attack", "defense", "wall"]
+                            "id": 20303,
+                            "title": "B wall",
+                            "url": "https://youtu.be/6rhNg7LB3Eg",
+                            "description": "Wall across B",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 20304,
+                            "title": "B heaven",
+                            "url": "https://youtu.be/6UZsEJGEBYk",
+                            "description": "Smoke covering B heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20305,
+                            "title": "B rafters",
+                            "url": "https://youtu.be/YvIv2OiUTng",
+                            "description": "Wall covering B rafters",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 20306,
+                            "title": "A heaven",
+                            "url": "https://youtu.be/fh1XjcuNnYc",
+                            "description": "Smoke covering A heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20307,
+                            "title": "A wall",
+                            "url": "https://youtu.be/6DAQ3Jimj7M",
+                            "description": "Wall covering A ramp and heaven",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 20308,
+                            "title": "A bites",
+                            "url": "https://youtu.be/V8EAlpzKPFs",
+                            "description": "Snakebite for A rafters and corner",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 20309,
+                            "title": "Mid smoke",
+                            "url": "https://youtu.be/90xyfQkQ6Gs",
+                            "description": "Smoke covering mid",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 20310,
+                            "title": "Mid one way",
+                            "url": "https://youtu.be/6PtIScwYRbY",
+                            "description": "Smoke covering mid",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 20311,
+                            "title": "Mid A wall",
+                            "url": "https://youtu.be/r31p2z8a1Oc",
+                            "description": "Smoke covering mid",
+                            "tags": ["defense", "wall"]
+                        },
+                        {
+                            "id": 20312,
+                            "title": "Mid stairs one way",
+                            "url": "https://youtu.be/GuGVpW18Q_Y",
+                            "description": "One way smoke on mid stairs",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 20313,
+                            "title": "B ramp one way",
+                            "url": "https://youtu.be/UigKh_zZJoo",
+                            "description": "One way smoke on B ramp",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 20314,
+                            "title": "B one way",
+                            "url": "https://youtu.be/uduoghitmAo",
+                            "description": "One way smoke on B main",
+                            "tags": ["defense", "smoke"]
                         }
                     ]
                 }
