@@ -382,108 +382,108 @@
                             "tags": ["defense", "smoke"]
                         }
                     ]
-                },
-                {
-                    "title": "Sova",
-                    "id": 2,
-                    "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
-                    "thumbnails": [
-                        {
-                            "id": "recon arrow",
-                            "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/recon-bolt-black.png"
-                        },
-                        {
-                            "id": "shock dart",
-                            "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/shock-bolt-black.png"
-                        },
-                        {
-                            "id": "ult",
-                            "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png"
-                        },
-                        {
-                            "id": "attack",
-                            "url": ""
-                        },
-                        {
-                            "id": "defense",
-                            "url": ""
-                        }
-                    ],
-                    "subTopics": [
-                        {
-                            "id": 201,
-                            "title": "Bind",
-                            "filters": ["All", "Attack", "Defense"],
-                            "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
-                            "videos": [
-                                {
-                                    "id": 20101,
-                                    "title": "A",
-                                    "url": "https://youtu.be/VYGjk1FwxrY",
-                                    "description": "Recon arrow A",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20102,
-                                    "title": "A #2",
-                                    "url": "https://youtu.be/EVYyH2q1L5A",
-                                    "description": "Recon arrow A back",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20103,
-                                    "title": "A front",
-                                    "url": "https://youtu.be/isoobs5b390",
-                                    "description": "Recon arrow A front",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20104,
-                                    "title": "A back",
-                                    "url": "https://youtu.be/OxDY9lP4TaI",
-                                    "description": "Recon arrow A back",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20105,
-                                    "title": "B elbow",
-                                    "url": "https://youtu.be/_CyxTUapYNA",
-                                    "description": "Recon arrow B elbow",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20106,
-                                    "title": "B hookah",
-                                    "url": "https://youtu.be/7nr6rJZegU4",
-                                    "description": "Recon arrow hookah back",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20106,
-                                    "title": "B hookah #2",
-                                    "url": "https://youtu.be/N5Gehh0_VXU",
-                                    "description": "Recon arrow hookah",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20107,
-                                    "title": "Defense hookah",
-                                    "url": "https://youtu.be/tzUr83mwWpQ",
-                                    "description": "Recon arrow hookah",
-                                    "tags": ["defense", "recon arrow"]
-                                },
-                                {
-                                    "id": 20108,
-                                    "title": "B long",
-                                    "url": "https://youtu.be/9uWmx4bAJSg",
-                                    "description": "Recon arrow B long",
-                                    "tags": ["defense", "recon arrow"]
-                                }   
-                            ]
-                        }
-                    ]
                 }
 
+            ]
+        },
+        {
+            "title": "Sova",
+            "id": 2,
+            "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
+            "thumbnails": [
+                {
+                    "id": "recon arrow",
+                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/recon-bolt-black.png"
+                },
+                {
+                    "id": "shock dart",
+                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/shock-bolt-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 201,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 20101,
+                            "title": "A",
+                            "url": "https://youtu.be/VYGjk1FwxrY",
+                            "description": "Recon arrow A",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20102,
+                            "title": "A #2",
+                            "url": "https://youtu.be/EVYyH2q1L5A",
+                            "description": "Recon arrow A back",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20103,
+                            "title": "A front",
+                            "url": "https://youtu.be/isoobs5b390",
+                            "description": "Recon arrow A front",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20104,
+                            "title": "A back",
+                            "url": "https://youtu.be/OxDY9lP4TaI",
+                            "description": "Recon arrow A back",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20105,
+                            "title": "B elbow",
+                            "url": "https://youtu.be/_CyxTUapYNA",
+                            "description": "Recon arrow B elbow",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20106,
+                            "title": "B hookah",
+                            "url": "https://youtu.be/7nr6rJZegU4",
+                            "description": "Recon arrow hookah back",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20106,
+                            "title": "B hookah #2",
+                            "url": "https://youtu.be/N5Gehh0_VXU",
+                            "description": "Recon arrow hookah",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20107,
+                            "title": "Defense hookah",
+                            "url": "https://youtu.be/tzUr83mwWpQ",
+                            "description": "Recon arrow hookah",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20108,
+                            "title": "B long",
+                            "url": "https://youtu.be/9uWmx4bAJSg",
+                            "description": "Recon arrow B long",
+                            "tags": ["defense", "recon arrow"]
+                        }   
+                    ]
+                }
             ]
         }
     ]
