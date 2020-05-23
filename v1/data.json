@@ -606,6 +606,280 @@
                     ]
                 },
             ]
+        },
+        {
+            "title": "Brimstone",
+            "id": 3,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/orbital-strike-black.png",
+            "thumbnails": [
+                {
+                    "id": "sky smoke",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/sky-smoke-black.png"
+                },
+                {
+                    "id": "incendiary",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/incendiary-black.png"
+                },
+                {
+                    "id": "stim beacon",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/stim-beacon-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/orbital-strike-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 301,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
+                    "videos": [
+                        {
+                            "id": 30101,
+                            "title": "A hookah",
+                            "url": "https://youtu.be/aBjg5qmRf9w",
+                            "description": "A hookah",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30102,
+                            "title": "B plant #1",
+                            "url": "https://youtu.be/CWhC3azod00",
+                            "description": "B plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30103,
+                            "title": "B plant #2",
+                            "url": "https://youtu.be/tFXbyhF3_io",
+                            "description": "B plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30104,
+                            "title": "B plant #3",
+                            "url": "https://youtu.be/fXRZmC76g2I",
+                            "description": "B plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30105,
+                            "title": "A Bath U-Hall",
+                            "url": "https://youtu.be/pkU2R0l-Hcc",
+                            "description": "U Hall",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30106,
+                            "title": "A Short U-Hall",
+                            "url": "https://youtu.be/tFJaD1I1eW8",
+                            "description": "U Hall",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30107,
+                            "title": "A Point",
+                            "url": "https://youtu.be/EAini8DPBtA",
+                            "description": "U Point",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30108,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/4E6v9yQiogY",
+                            "description": "A Heaven",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30109,
+                            "title": "A Cubbby",
+                            "url": "https://youtu.be/NcskICelqOw",
+                            "description": "A Cubby",
+                            "tags": ["attack", "incendiary"]
+                        }
+                    ]
+                },
+                {
+                    "id": 302,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
+                    "videos": [
+                        {
+                            "id": 30201,
+                            "title": "A Plant",
+                            "url": "https://youtu.be/xmuTl6SJpII",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30202,
+                            "title": "A Plant #2",
+                            "url": "https://youtu.be/723aJK0z6L8",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30203,
+                            "title": "A Plant A long",
+                            "url": "https://youtu.be/7NFV5QGVvVM",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30204,
+                            "title": "B plant",
+                            "url": "https://youtu.be/YX3yHTvuy6A",
+                            "description": "B Plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30205,
+                            "title": "B plant #2",
+                            "url": "https://youtu.be/wmzd6tRQ1Qg",
+                            "description": "B Plant #2",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30206,
+                            "title": "B back",
+                            "url": "https://youtu.be/VzdYs9VauaY",
+                            "description": "B back",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30207,
+                            "title": "B back #2",
+                            "url": "https://youtu.be/lnKF2oUvB7c",
+                            "description": "B back",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30208,
+                            "title": "B boxes left",
+                            "url": "https://youtu.be/7EeQx_ZdZzE",
+                            "description": "B boxes left",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30209,
+                            "title": "B boxes right",
+                            "url": "https://youtu.be/edrIL7xLveA",
+                            "description": "B boxes right",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30210,
+                            "title": "Garage",
+                            "url": "https://youtu.be/_FHNLzGV0v0",
+                            "description": "Garage",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30211,
+                            "title": "C back",
+                            "url": "https://youtu.be/4UIHYnl0SL0",
+                            "description": "C back",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30212,
+                            "title": "C back #2",
+                            "url": "https://youtu.be/yYHZIPdaYXI",
+                            "description": "C back #2",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30213,
+                            "title": "C point",
+                            "url": "https://youtu.be/mHvsndQdqpU",
+                            "description": "C point",
+                            "tags": ["attack", "defense", "incendiary"]
+                        }
+                    ]
+                },
+                {
+                    "id": 303,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
+                    "videos": [
+                        {
+                            "id": 30301,
+                            "title": "A ramp",
+                            "url": "https://youtu.be/9OEizGvQvho",
+                            "description": "A ramp",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30302,
+                            "title": "A rafters",
+                            "url": "https://youtu.be/De464s9tu2I",
+                            "description": "A rafters",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30303,
+                            "title": "A heaven",
+                            "url": "https://youtu.be/kVjJUeYlABo",
+                            "description": "A heaven",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30304,
+                            "title": "A ropes",
+                            "url": "https://youtu.be/z3pKTDx5f_o",
+                            "description": "A ropes",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30305,
+                            "title": "A plant",
+                            "url": "https://youtu.be/iniRoewXqBI",
+                            "description": "A plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30306,
+                            "title": "B plant",
+                            "url": "https://youtu.be/lh1o_jYv6Ys",
+                            "description": "B plant",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30307,
+                            "title": "B heaven",
+                            "url": "https://youtu.be/Y_N8tGxnju8",
+                            "description": "B heaven",
+                            "tags": ["attack", "defense", "incendiary"]
+                        },
+                        {
+                            "id": 30308,
+                            "title": "B corner",
+                            "url": "https://youtu.be/KtWCoFYA8Zk",
+                            "description": "B corner",
+                            "tags": ["attack", "incendiary"]
+                        },
+                        {
+                            "id": 30309,
+                            "title": "B corner #2",
+                            "url": "https://youtu.be/c4xB_vE1Qyg",
+                            "description": "B corner #2",
+                            "tags": ["attack", "incendiary"]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
