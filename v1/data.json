@@ -880,6 +880,368 @@
                     ]
                 }
             ]
+        },
+        {
+            "title": "Cypher",
+            "id": 4,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/neural-theft-black.png",
+            "thumbnails": [
+                {
+                    "id": "cyber cage",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/cyber-cage-black.png"
+                },
+                {
+                    "id": "trapwire",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/trapwire-black.png"
+                },
+                {
+                    "id": "spycam",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/spycam-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/neural-theft-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 401,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40101,
+                            "title": "Hookah",
+                            "url": "https://youtu.be/zvzCJQRndRM",
+                            "description": "A hookah",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40102,
+                            "title": "Hookah #2",
+                            "url": "https://youtu.be/4cnsogU1DHk",
+                            "description": "A hookah",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40103,
+                            "title": "B site",
+                            "url": "https://youtu.be/DbKwijFBWFY",
+                            "description": "B site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40104,
+                            "title": "A site",
+                            "url": "https://youtu.be/agWYd64EsB4",
+                            "description": "A site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40105,
+                            "title": "A link",
+                            "url": "https://youtu.be/Ur5FKRjwegY",
+                            "description": "A link",
+                            "tags": ["defense", "attack", "spycam"]
+                        },  
+                        {
+                            "id": 40106,
+                            "title": "A short oneway",
+                            "url": "https://youtu.be/hlRDTD62ecc",
+                            "description": "A link",
+                            "tags": ["defense", "attack", "cyber cage"]
+                        }
+                    ]
+                },
+                {
+                    "id": 402,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40201,
+                            "title": "A site",
+                            "url": "https://youtu.be/QctRGWwJq0Q",
+                            "description": "A site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40202,
+                            "title": "A site #2",
+                            "url": "https://youtu.be/TBsvT-rVH0E",
+                            "description": "A site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40203,
+                            "title": "A site #3",
+                            "url": "https://youtu.be/T7AQuMbWM_A",
+                            "description": "A site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40204,
+                            "title": "B lobby and  A long",
+                            "url": "https://youtu.be/BzZaHW0eE8s",
+                            "description": "A site",
+                            "tags": ["attack", "spycam"]
+                        },
+                        {
+                            "id": 40205,
+                            "title": "C lobby",
+                            "url": "https://youtu.be/ZB2H1CbYVy0",
+                            "description": "C lobby",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40206,
+                            "title": "C site",
+                            "url": "https://youtu.be/EmOM5LMzW1Q",
+                            "description": "C site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40207,
+                            "title": "Garage",
+                            "url": "https://youtu.be/99mSBnbjIzA",
+                            "description": "Garage",
+                            "tags": ["defense", "attack", "spycam"]
+                        }
+                    ]
+                },
+                {
+                    "id": 403,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40301,
+                            "title": "A site",
+                            "url": "https://youtu.be/gd4iSLA69S4",
+                            "description": "A site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40302,
+                            "title": "A site #2",
+                            "url": "https://youtu.be/rG3MCXKSplU",
+                            "description": "A site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40303,
+                            "title": "A oneway",
+                            "url": "https://youtu.be/FJifpoCxQNY",
+                            "description": "A one way cage",
+                            "tags": ["defense", "attack", "cyber cage"]
+                        },
+                        {
+                            "id": 40304,
+                            "title": "A oneway #2",
+                            "url": "https://youtu.be/ckwiZrHMfCo",
+                            "description": "A one way cage",
+                            "tags": ["defense", "cyber cage"]
+                        },
+                        {
+                            "id": 40305,
+                            "title": "Mid lobby",
+                            "url": "https://youtu.be/CmN_ZN_7W4Q",
+                            "description": "Mid lobby cam",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40306,
+                            "title": "Mid lobby #2",
+                            "url": "https://youtu.be/dWxKzFiUNPg",
+                            "description": "Mid lobby cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40307,
+                            "title": "Defender spawn",
+                            "url": "https://youtu.be/oTUzepmy-Rk",
+                            "description": "defender spawn cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40308,
+                            "title": "B site",
+                            "url": "https://youtu.be/fIUTVzHsxRs",
+                            "description": "B site cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40309,
+                            "title": "B site #2",
+                            "url": "https://youtu.be/SoeJ20ZOjtI",
+                            "description": "B site cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40310,
+                            "title": "B lobby",
+                            "url": "https://youtu.be/gqLv_mjZSts",
+                            "description": "B lobby cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sage",
+            "id": 5,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png",
+            "thumbnails": [
+                {
+                    "id": "barrier orb",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/barrier-orb-black.png"
+                },
+                {
+                    "id": "slow orb",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/slow-orb-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 501,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
+                    "videos": [
+                        {
+                            "id": 50101,
+                            "title": "A short",
+                            "url": "https://youtu.be/5a4ALp50x4Y",
+                            "description": "A short",
+                            "tags": ["attack", "barrier orb", "slow orb"]
+                        },
+                        {
+                            "id": 50102,
+                            "title": "A bath",
+                            "url": "https://youtu.be/PsJHAI913KI",
+                            "description": "A bath",
+                            "tags": ["attack", "barrier orb"]
+                        },
+                        {
+                            "id": 50103,
+                            "title": "A site",
+                            "url": "https://youtu.be/nzW79S0Youk",
+                            "description": "A site",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50104,
+                            "title": "A site #2",
+                            "url": "https://youtu.be/RmNjQMW3DbM",
+                            "description": "A site",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50105,
+                            "title": "A short",
+                            "url": "https://youtu.be/zKMGl9lnZvU",
+                            "description": "A short",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50106,
+                            "title": "A short #2",
+                            "url": "https://youtu.be/2Goqajy6UEQ",
+                            "description": "A short",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50107,
+                            "title": "Hookah",
+                            "url": "https://youtu.be/0iFGHS9zuy8",
+                            "description": "Hookah",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50108,
+                            "title": "B long",
+                            "url": "https://youtu.be/tlqEkW69Urk",
+                            "description": "B long",
+                            "tags": ["defense", "barrier orb"]
+                        }
+                    ]
+                },
+                {
+                    "id": 502,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
+                    "videos": [
+                        {
+                            "id": 50201,
+                            "title": "A long",
+                            "url": "https://youtu.be/6sp0yOem00c",
+                            "description": "A long",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50202,
+                            "title": "B site",
+                            "url": "https://youtu.be/-d0s7Prl19g",
+                            "description": "A long",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50203,
+                            "title": "C site",
+                            "url": "https://youtu.be/PCuYecohbIA",
+                            "description": "C site",
+                            "tags": ["defense", "barrier orb"]
+                        }
+                    ]
+                },
+                {
+                    "id": 503,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
+                    "videos": [
+                        {
+                            "id": 50301,
+                            "title": "Mid",
+                            "url": "https://youtu.be/EEF716hjkco",
+                            "description": "Mid",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50302,
+                            "title": "A",
+                            "url": "https://youtu.be/JNX_JftoYHk",
+                            "description": "A ",
+                            "tags": ["defense", "barrier orb"]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
