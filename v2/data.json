@@ -39,352 +39,6 @@
             ],
             "subTopics": [
                 {
-                    "id": 101,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
-                    "videos": [
-                        {
-                            "id": 10101,
-                            "title": "A short one way",
-                            "url": "https://youtu.be/CUfbsu49CWU",
-                            "description": "One way smoke on A long",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10102,
-                            "title": "A bath one way",
-                            "url": "https://youtu.be/z83irbyWEdU",
-                            "description": "One way smoke on A bath",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10103,
-                            "title": "A/B Wall",
-                            "url": "https://youtu.be/GdBGswCnEPs",
-                            "description": "Wall from A to B covering hookah and B",
-                            "tags": ["defense", "wall"]
-                        },
-                        {
-                            "id": 10104,
-                            "title": "B Wall",
-                            "url": "https://youtu.be/_RWhSz2Ul0w",
-                            "description": "Wall covering B",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10105,
-                            "title": "B ult",
-                            "url": "https://youtu.be/ZBbiUe32VmM",
-                            "description": "Ult spot in hookah, covers parts of B for planting",
-                            "tags": ["attack", "ult"]
-                        },
-                        {
-                            "id": 10106,
-                            "title": "B spawn",
-                            "url": "https://youtu.be/f5-MP94CdrE",
-                            "description": "Smoke covering B spawn",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10107,
-                            "title": "B point",
-                            "url": "https://youtu.be/NE5OI6JKAAc",
-                            "description": "Smoke covering B point",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10108,
-                            "title": "B elbow",
-                            "url": "https://youtu.be/b275US-Hk3k",
-                            "description": "Smoke covering B elbow",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10109,
-                            "title": "A",
-                            "url": "https://youtu.be/BOpSQHuDnmc",
-                            "description": "A wall from mid",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10110,
-                            "title": "A #2",
-                            "url": "https://youtu.be/ppr1Q_H2cWE",
-                            "description": "A wall from attacker spawn",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10111,
-                            "title": "A point",
-                            "url": "https://youtu.be/3CEYsM2VwZY",
-                            "description": "A point smoke from mid",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10112,
-                            "title": "A point #2",
-                            "url": "https://youtu.be/ZFxQIIjniDc",
-                            "description": "A point smoke from attacker spawn",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10113,
-                            "title": "A point",
-                            "url": "https://youtu.be/_7d0E_4woAg",
-                            "description": "A point snake bite behind boxes",
-                            "tags": ["attack", "bite"]
-                        },
-                        {
-                            "id": 10114,
-                            "title": "A heaven #1",
-                            "url": "https://youtu.be/3hp1FbPJ9QM",
-                            "description": "A heaven smoke from attacker spawn",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10115,
-                            "title": "A heaven #2",
-                            "url": "https://youtu.be/T50PwVWYous",
-                            "description": "A heaven smoke from bath",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10116,
-                            "title": "A heaven #3",
-                            "url": "https://youtu.be/dkZZ4jDvUf4",
-                            "description": "A heaven smoke from bath",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10117,
-                            "title": "A execute from mid",
-                            "url": "https://youtu.be/NAHGQMpbjbQ",
-                            "description": "A wall and smoke from mid",
-                            "tags": ["attack", "smoke", "wall"]
-                        },
-                        {
-                            "id": 10118,
-                            "title": "A bath",
-                            "url": "https://youtu.be/NiXVgV0aIWg",
-                            "description": "A Snakebite on the boxes to the right side of the bath exit",
-                            "tags": ["attack", "bite"]
-                        },
-                        {
-                            "id": 10119,
-                            "title": "A bath",
-                            "url": "https://youtu.be/j8WDB0QXt6g",
-                            "description": "A Ult from bath",
-                            "tags": ["attack", "ult"]
-                        }
-                    ]
-                },
-                {
-                    "id": 102,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
-                    "videos": [
-                        {
-                            "id": 10201,
-                            "title": "A spawn",
-                            "url": "https://youtu.be/H0DmVDzUSdM",
-                            "description": "Smoke into A covering spawn entrance",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10202,
-                            "title": "A long",
-                            "url": "https://youtu.be/0gk_Vfw_ueM",
-                            "description": "Smoke covering A long",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10203,
-                            "title": "A heaven",
-                            "url": "https://youtu.be/2L94hnUNv78",
-                            "description": "Smoke covering A heaven",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10204,
-                            "title": "A heaven #2",
-                            "url": "https://youtu.be/U6qVOAfs7_M",
-                            "description": "Smoke covering A heaven",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10205,
-                            "title": "A",
-                            "url": "https://youtu.be/Ti6r4uZQUjU",
-                            "description": "Wall splitting A",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10206,
-                            "title": "B mid",
-                            "url": "https://youtu.be/w_6UFE0ec9Q",
-                            "description": "B mid smoke",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10207,
-                            "title": "C point",
-                            "url": "https://youtu.be/-XAjoCj_kN0",
-                            "description": "C point smoke",
-                            "tags": ["attack", "bite"]
-                        },
-                        {
-                            "id": 10208,
-                            "title": "B window",
-                            "url": "https://youtu.be/drF6DZ0iqAY",
-                            "description": "B window bites and smoke",
-                            "tags": ["defense", "smoke", "bite"]
-                        },
-                        {
-                            "id": 10209,
-                            "title": "Garage one way",
-                            "url": "https://youtu.be/3CJEHdg7bwg",
-                            "description": "Garage one way smoke",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10210,
-                            "title": "B one way",
-                            "url": "https://youtu.be/4bnsxl1RHf8",
-                            "description": "One way smoke on b",
-                            "tags": ["attack", "defense", "smoke"]
-                        },
-                        {
-                            "id": 10211,
-                            "title": "A sewer",
-                            "url": "https://youtu.be/0GPFpAuRaNA",
-                            "description": "A sewer one way",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10212,
-                            "title": "A main",
-                            "url": "https://youtu.be/rZQLADizD1g",
-                            "description": "A main one way smoke",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10213,
-                            "title": "A B wall",
-                            "url": "https://youtu.be/411gfmi9ScE",
-                            "description": "Wall covering A and B",
-                            "tags": ["defense", "wall"]
-                        }
-                    ]
-                },
-                {
-                    "id": 103,
-                    "title": "Split",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
-                    "videos": [
-                        {
-                            "id": 10301,
-                            "title": "B heaven",
-                            "url": "https://youtu.be/cZD22M2YbFo",
-                            "description": "Smoke covering B heaven",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10302,
-                            "title": "B execute",
-                            "url": "https://youtu.be/ujuhZF1Prik",
-                            "description": "Wall, smoke and bite for B",
-                            "tags": ["attack", "smoke", "wall", "bite"]
-                        },
-                        {
-                            "id": 10303,
-                            "title": "B wall",
-                            "url": "https://youtu.be/6rhNg7LB3Eg",
-                            "description": "Wall across B",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10304,
-                            "title": "B heaven",
-                            "url": "https://youtu.be/6UZsEJGEBYk",
-                            "description": "Smoke covering B heaven",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10305,
-                            "title": "B rafters",
-                            "url": "https://youtu.be/YvIv2OiUTng",
-                            "description": "Wall covering B rafters",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10306,
-                            "title": "A heaven",
-                            "url": "https://youtu.be/fh1XjcuNnYc",
-                            "description": "Smoke covering A heaven",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10307,
-                            "title": "A wall",
-                            "url": "https://youtu.be/6DAQ3Jimj7M",
-                            "description": "Wall covering A ramp and heaven",
-                            "tags": ["attack", "wall"]
-                        },
-                        {
-                            "id": 10308,
-                            "title": "A",
-                            "url": "https://youtu.be/V8EAlpzKPFs",
-                            "description": "Snakebite for A rafters and corner",
-                            "tags": ["attack", "bite"]
-                        },
-                        {
-                            "id": 10309,
-                            "title": "Mid smoke",
-                            "url": "https://youtu.be/90xyfQkQ6Gs",
-                            "description": "Smoke covering mid",
-                            "tags": ["attack", "smoke"]
-                        },
-                        {
-                            "id": 10310,
-                            "title": "Mid one way",
-                            "url": "https://youtu.be/6PtIScwYRbY",
-                            "description": "Smoke covering mid",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10311,
-                            "title": "Mid A wall",
-                            "url": "https://youtu.be/r31p2z8a1Oc",
-                            "description": "Smoke covering mid",
-                            "tags": ["defense", "wall"]
-                        },
-                        {
-                            "id": 10312,
-                            "title": "Mid stairs one way",
-                            "url": "https://youtu.be/GuGVpW18Q_Y",
-                            "description": "One way smoke on mid stairs",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10313,
-                            "title": "B ramp one way",
-                            "url": "https://youtu.be/UigKh_zZJoo",
-                            "description": "One way smoke on B ramp",
-                            "tags": ["defense", "smoke"]
-                        },
-                        {
-                            "id": 10314,
-                            "title": "B one way",
-                            "url": "https://youtu.be/uduoghitmAo",
-                            "description": "One way smoke on B main",
-                            "tags": ["defense", "smoke"]
-                        }
-                    ]
-                },
-                {
                     "id": 104,
                     "title": "Ascent",
                     "filters": ["All", "Attack", "Defense"],
@@ -394,35 +48,35 @@
                             "id": 10401,
                             "title": "A Main",
                             "url": "https://youtu.be/XPATeGMfxq8",
-                            "description": "Smoke covering A main door",
+                            "description": "Smoke covering A Main Door",
                             "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 10402,
                             "title": "B Main",
                             "url": "https://youtu.be/AyO80gAbgUc",
-                            "description": "Smoke covering B main door",
+                            "description": "Smoke covering B Main Door",
                             "tags": ["defense", "smoke"]
                         },
                         {
                             "id": 10403,
                             "title": "A Link",
                             "url": "https://youtu.be/Fw-l4Wm3lpk",
-                            "description": "Smoke covering A link",
+                            "description": "Smoke covering A Link",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 10404,
                             "title": "A Heaven",
                             "url": "https://youtu.be/Zjb32mUc1Ws",
-                            "description": "Smoke covering A heaven",
+                            "description": "Smoke covering A Heaven",
                             "tags": ["attack", "smoke"]
                         },
                         {
                             "id": 10405,
                             "title": "Mid Cubby to A Heaven",
                             "url": "https://youtu.be/kOY_sTfZcP4",
-                            "description": "Smoke covering A heaven",
+                            "description": "Smoke covering A Heaven",
                             "tags": ["attack", "smoke"]
                         },
                         {
@@ -453,6 +107,352 @@
                             "description": "Smoke covering Mid Link from Mid Bottom",
                             "tags": ["attack", "smoke"]
                         }  
+                    ]
+                },
+                {
+                    "id": 101,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10101,
+                            "title": "A Short one way",
+                            "url": "https://youtu.be/CUfbsu49CWU",
+                            "description": "One way smoke on A Long",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10102,
+                            "title": "A Bath one way",
+                            "url": "https://youtu.be/z83irbyWEdU",
+                            "description": "One way smoke on A bath",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10103,
+                            "title": "A/B Wall",
+                            "url": "https://youtu.be/GdBGswCnEPs",
+                            "description": "Wall from A to B covering Hookah and B",
+                            "tags": ["defense", "wall"]
+                        },
+                        {
+                            "id": 10104,
+                            "title": "B Wall",
+                            "url": "https://youtu.be/_RWhSz2Ul0w",
+                            "description": "Wall covering B",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10105,
+                            "title": "B Ult",
+                            "url": "https://youtu.be/ZBbiUe32VmM",
+                            "description": "Ult spot in Hookah, covers parts of B for planting",
+                            "tags": ["attack", "ult"]
+                        },
+                        {
+                            "id": 10106,
+                            "title": "B Spawn",
+                            "url": "https://youtu.be/f5-MP94CdrE",
+                            "description": "Smoke covering B Spawn",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10107,
+                            "title": "B Point",
+                            "url": "https://youtu.be/NE5OI6JKAAc",
+                            "description": "Smoke covering B Point",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10108,
+                            "title": "B Elbow",
+                            "url": "https://youtu.be/b275US-Hk3k",
+                            "description": "Smoke covering B Elbow",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10109,
+                            "title": "A",
+                            "url": "https://youtu.be/BOpSQHuDnmc",
+                            "description": "A Wall from Mid",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10110,
+                            "title": "A #2",
+                            "url": "https://youtu.be/ppr1Q_H2cWE",
+                            "description": "A Wall from Attacker Spawn",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10111,
+                            "title": "A Point",
+                            "url": "https://youtu.be/3CEYsM2VwZY",
+                            "description": "A Point smoke from Mid",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10112,
+                            "title": "A Point #2",
+                            "url": "https://youtu.be/ZFxQIIjniDc",
+                            "description": "A Point smoke from Attacker Spawn",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10113,
+                            "title": "A Point",
+                            "url": "https://youtu.be/_7d0E_4woAg",
+                            "description": "A Point Snake Bite behind Boxes",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 10114,
+                            "title": "A Heaven #1",
+                            "url": "https://youtu.be/3hp1FbPJ9QM",
+                            "description": "A Heaven smoke from Attacker Spawn",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10115,
+                            "title": "A Heaven #2",
+                            "url": "https://youtu.be/T50PwVWYous",
+                            "description": "A Heaven smoke from Bath",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10116,
+                            "title": "A Heaven #3",
+                            "url": "https://youtu.be/dkZZ4jDvUf4",
+                            "description": "A Heaven smoke from Bath",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10117,
+                            "title": "A execute from Mid",
+                            "url": "https://youtu.be/NAHGQMpbjbQ",
+                            "description": "A Wall and smoke from Mid",
+                            "tags": ["attack", "smoke", "wall"]
+                        },
+                        {
+                            "id": 10118,
+                            "title": "A Bath",
+                            "url": "https://youtu.be/NiXVgV0aIWg",
+                            "description": "A Snake Bite on the Boxes to the right side of the Bath exit",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 10119,
+                            "title": "A Bath",
+                            "url": "https://youtu.be/j8WDB0QXt6g",
+                            "description": "A Ult from Bath",
+                            "tags": ["attack", "ult"]
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10201,
+                            "title": "A Spawn",
+                            "url": "https://youtu.be/H0DmVDzUSdM",
+                            "description": "Smoke into A covering Spawn Entrance",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10202,
+                            "title": "A Long",
+                            "url": "https://youtu.be/0gk_Vfw_ueM",
+                            "description": "Smoke covering A Long",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10203,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/2L94hnUNv78",
+                            "description": "Smoke covering A Heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10204,
+                            "title": "A Heaven #2",
+                            "url": "https://youtu.be/U6qVOAfs7_M",
+                            "description": "Smoke covering A Heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10205,
+                            "title": "A",
+                            "url": "https://youtu.be/Ti6r4uZQUjU",
+                            "description": "Wall splitting A",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10206,
+                            "title": "B Mid",
+                            "url": "https://youtu.be/w_6UFE0ec9Q",
+                            "description": "B Mid smoke",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10207,
+                            "title": "C Point",
+                            "url": "https://youtu.be/-XAjoCj_kN0",
+                            "description": "C Point smoke",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 10208,
+                            "title": "B Window",
+                            "url": "https://youtu.be/drF6DZ0iqAY",
+                            "description": "B Window Snake Bite and smoke",
+                            "tags": ["defense", "smoke", "bite"]
+                        },
+                        {
+                            "id": 10209,
+                            "title": "Garage one way",
+                            "url": "https://youtu.be/3CJEHdg7bwg",
+                            "description": "Garage one way smoke",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10210,
+                            "title": "B one way",
+                            "url": "https://youtu.be/4bnsxl1RHf8",
+                            "description": "One way smoke on B",
+                            "tags": ["attack", "defense", "smoke"]
+                        },
+                        {
+                            "id": 10211,
+                            "title": "A Sewer",
+                            "url": "https://youtu.be/0GPFpAuRaNA",
+                            "description": "Sewer one way",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10212,
+                            "title": "A Main",
+                            "url": "https://youtu.be/rZQLADizD1g",
+                            "description": "A Main one way smoke",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10213,
+                            "title": "A B Wall",
+                            "url": "https://youtu.be/411gfmi9ScE",
+                            "description": "Wall covering A and B",
+                            "tags": ["defense", "wall"]
+                        }
+                    ]
+                },
+                {
+                    "id": 103,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10301,
+                            "title": "B Heaven",
+                            "url": "https://youtu.be/cZD22M2YbFo",
+                            "description": "Smoke covering B Heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10302,
+                            "title": "B execute",
+                            "url": "https://youtu.be/ujuhZF1Prik",
+                            "description": "Wall, smoke and Snake Bite for B",
+                            "tags": ["attack", "smoke", "wall", "bite"]
+                        },
+                        {
+                            "id": 10303,
+                            "title": "B Wall",
+                            "url": "https://youtu.be/6rhNg7LB3Eg",
+                            "description": "Wall across B",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10304,
+                            "title": "B Heaven",
+                            "url": "https://youtu.be/6UZsEJGEBYk",
+                            "description": "Smoke covering B Heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10305,
+                            "title": "B Rafters",
+                            "url": "https://youtu.be/YvIv2OiUTng",
+                            "description": "Wall covering B Rafters",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10306,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/fh1XjcuNnYc",
+                            "description": "Smoke covering A Heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10307,
+                            "title": "A Wall",
+                            "url": "https://youtu.be/6DAQ3Jimj7M",
+                            "description": "Wall covering A Ramp and Heaven",
+                            "tags": ["attack", "wall"]
+                        },
+                        {
+                            "id": 10308,
+                            "title": "A",
+                            "url": "https://youtu.be/V8EAlpzKPFs",
+                            "description": "Snake bite for A Rafters and Corner",
+                            "tags": ["attack", "bite"]
+                        },
+                        {
+                            "id": 10309,
+                            "title": "Mid smoke",
+                            "url": "https://youtu.be/90xyfQkQ6Gs",
+                            "description": "Smoke covering Mid",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10310,
+                            "title": "Mid one way",
+                            "url": "https://youtu.be/6PtIScwYRbY",
+                            "description": "Smoke covering Mid",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10311,
+                            "title": "Mid A wall",
+                            "url": "https://youtu.be/r31p2z8a1Oc",
+                            "description": "Smoke covering Mid",
+                            "tags": ["defense", "wall"]
+                        },
+                        {
+                            "id": 10312,
+                            "title": "Mid Stairs one way",
+                            "url": "https://youtu.be/GuGVpW18Q_Y",
+                            "description": "One way smoke on Mid Stairs",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10313,
+                            "title": "B Ramp one way",
+                            "url": "https://youtu.be/UigKh_zZJoo",
+                            "description": "One way smoke on B Ramp",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10314,
+                            "title": "B one way",
+                            "url": "https://youtu.be/uduoghitmAo",
+                            "description": "One way smoke on B Main",
+                            "tags": ["defense", "smoke"]
+                        }
                     ]
                 }
 
@@ -502,56 +502,56 @@
                             "id": 20102,
                             "title": "A #2",
                             "url": "https://youtu.be/EVYyH2q1L5A",
-                            "description": "Recon arrow A back",
+                            "description": "Recon arrow A Back",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20103,
-                            "title": "A front",
+                            "title": "A Front",
                             "url": "https://youtu.be/isoobs5b390",
-                            "description": "Recon arrow A front",
+                            "description": "Recon arrow A Front",
                             "tags": ["aattack", "recon arrow"]
                         },
                         {
                             "id": 20104,
-                            "title": "A back",
+                            "title": "A Back",
                             "url": "https://youtu.be/OxDY9lP4TaI",
-                            "description": "Recon arrow A back",
+                            "description": "Recon arrow A Back",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20105,
-                            "title": "B elbow",
+                            "title": "B Elbow",
                             "url": "https://youtu.be/_CyxTUapYNA",
-                            "description": "Recon arrow B elbow",
+                            "description": "Recon arrow B Elbow",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20106,
-                            "title": "B hookah",
+                            "title": "B Hookah",
                             "url": "https://youtu.be/7nr6rJZegU4",
-                            "description": "Recon arrow hookah back",
+                            "description": "Recon arrow Hookah Back",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20107,
-                            "title": "B hookah #2",
+                            "title": "B Hookah #2",
                             "url": "https://youtu.be/N5Gehh0_VXU",
-                            "description": "Recon arrow hookah",
+                            "description": "Recon arrow Hookah",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20108,
-                            "title": "Defense hookah",
+                            "title": "Defense Hookah",
                             "url": "https://youtu.be/tzUr83mwWpQ",
-                            "description": "Recon arrow hookah",
+                            "description": "Recon arrow Hookah",
                             "tags": ["defense", "recon arrow"]
                         },
                         {
                             "id": 20109,
-                            "title": "B long",
+                            "title": "B Long",
                             "url": "https://youtu.be/9uWmx4bAJSg",
-                            "description": "Recon arrow B long",
+                            "description": "Recon arrow B Long",
                             "tags": ["defense", "recon arrow"]
                         }
                     ]
@@ -564,30 +564,30 @@
                     "videos": [
                         {
                             "id": 20201,
-                            "title": "A long",
+                            "title": "A Long",
                             "url": "https://youtu.be/kyR53mFSe-M",
-                            "description": "Recon arrow A long",
+                            "description": "Recon arrow A Long",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20202,
                             "title": "B",
                             "url": "https://youtu.be/2Xls4Z38i2M",
-                            "description": "Recon arrow B point",
+                            "description": "Recon arrow B Point",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20203,
                             "title": "C",
                             "url": "https://youtu.be/6mo-wm8S_Qw",
-                            "description": "Recon arrow C point",
+                            "description": "Recon arrow C Point",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20204,
-                            "title": "A attacker spawn",
+                            "title": "A Attacker Spawn",
                             "url": "https://youtu.be/Crqa7dAvMi0",
-                            "description": "Recon arrow attacker spawn A",
+                            "description": "Recon arrow Attacker Spawn A",
                             "tags": ["defense", "recon arrow"]
                         },
                         {
@@ -599,37 +599,37 @@
                         },
                         {
                             "id": 20206,
-                            "title": "B plant",
+                            "title": "B Plant",
                             "url": "https://youtu.be/1TMLccL2cG4",
-                            "description": "Shock arrow on B plant spot",
+                            "description": "Shock arrow on B Plant Spot",
                             "tags": ["defense", "attack", "shock dart"]
                         },
                         {
                             "id": 20207,
                             "title": "B #2",
                             "url": "https://youtu.be/8HhESiQVqRI",
-                            "description": "B from doorway",
+                            "description": "B from Doorway",
                             "tags": ["defense", "attack", "recon arrow"]
                         },
                         {
                             "id": 20208,
-                            "title": "C plant",
+                            "title": "C Plant",
                             "url": "https://youtu.be/skUTzFcYdzU",
                             "description": "C plant spot",
                             "tags": ["defense", "attack", "shock dart"]
                         },
                         {
                             "id": 20209,
-                            "title": "C long",
+                            "title": "C Long",
                             "url": "https://youtu.be/JTGj2bFM5Fs",
-                            "description": "C long for defenders",
+                            "description": "C Long for Defenders",
                             "tags": ["defense", "recon arrow"]
                         },
                         {
                             "id": 20210,
                             "title": "Garage",
                             "url": "https://youtu.be/2s650fgrhuE",
-                            "description": "Recon arrow outside of garage",
+                            "description": "Recon arrow outside of Garage",
                             "tags": ["defense", "recon arrow"]
                         }
                     ]
@@ -642,16 +642,16 @@
                     "videos": [
                         {
                             "id": 20301,
-                            "title": "A heaven",
+                            "title": "A Heaven",
                             "url": "https://youtu.be/CyLgfkukTAA",
-                            "description": "Recon arrow on A heaven",
+                            "description": "Recon arrow on A Heaven",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20302,
-                            "title": "A point",
+                            "title": "A Point",
                             "url": "https://youtu.be/azNFtnx94-4",
-                            "description": "Recon arrow on A point",
+                            "description": "Recon arrow on A Point",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
@@ -665,14 +665,14 @@
                             "id": 20304,
                             "title": "B #2",
                             "url": "https://youtu.be/IyUaR9DJ_2Q",
-                            "description": "Recon arrow on B from heaven",
+                            "description": "Recon arrow on B from Heaven",
                             "tags": ["attack", "recon arrow"]
                         },
                         {
                             "id": 20305,
-                            "title": "A attacker spawn",
+                            "title": "A Attacker Spawn",
                             "url": "https://youtu.be/bFMPcFVV1lg",
-                            "description": "Recon arrow on A attacker spawn",
+                            "description": "Recon arrow on A Attacker Spawn",
                             "tags": ["defense", "recon arrow"]
                         }
                     ]
@@ -718,30 +718,30 @@
                     "videos": [
                         {
                             "id": 30101,
-                            "title": "A hookah",
+                            "title": "A Hookah",
                             "url": "https://youtu.be/aBjg5qmRf9w",
-                            "description": "A hookah",
+                            "description": "A Hookah",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30102,
-                            "title": "B plant #1",
+                            "title": "B Plant #1",
                             "url": "https://youtu.be/CWhC3azod00",
-                            "description": "B plant",
+                            "description": "B Plant",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30103,
-                            "title": "B plant #2",
+                            "title": "B Plant #2",
                             "url": "https://youtu.be/tFXbyhF3_io",
-                            "description": "B plant",
+                            "description": "B Plant",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30104,
-                            "title": "B plant #3",
+                            "title": "B Plant #3",
                             "url": "https://youtu.be/fXRZmC76g2I",
-                            "description": "B plant",
+                            "description": "B Plant",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
@@ -810,44 +810,44 @@
                         },
                         {
                             "id": 30204,
-                            "title": "B plant",
+                            "title": "B Plant",
                             "url": "https://youtu.be/YX3yHTvuy6A",
                             "description": "B Plant",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30205,
-                            "title": "B plant #2",
+                            "title": "B Plant #2",
                             "url": "https://youtu.be/wmzd6tRQ1Qg",
                             "description": "B Plant #2",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30206,
-                            "title": "B back",
+                            "title": "B Back",
                             "url": "https://youtu.be/VzdYs9VauaY",
-                            "description": "B back",
+                            "description": "B Back",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30207,
-                            "title": "B back #2",
+                            "title": "B Back #2",
                             "url": "https://youtu.be/lnKF2oUvB7c",
-                            "description": "B back",
+                            "description": "B Back",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30208,
-                            "title": "B boxes left",
+                            "title": "B Boxes left",
                             "url": "https://youtu.be/7EeQx_ZdZzE",
-                            "description": "B boxes left",
+                            "description": "B Boxes left",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30209,
-                            "title": "B boxes right",
+                            "title": "B Boxes right",
                             "url": "https://youtu.be/edrIL7xLveA",
-                            "description": "B boxes right",
+                            "description": "B Boxes right",
                             "tags": ["attack", "incendiary"]
                         },
                         {
@@ -859,23 +859,23 @@
                         },
                         {
                             "id": 30211,
-                            "title": "C back",
+                            "title": "C Back",
                             "url": "https://youtu.be/4UIHYnl0SL0",
-                            "description": "C back",
+                            "description": "C Back",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30212,
-                            "title": "C back #2",
+                            "title": "C Back #2",
                             "url": "https://youtu.be/yYHZIPdaYXI",
-                            "description": "C back #2",
+                            "description": "C Back #2",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30213,
-                            "title": "C point",
+                            "title": "C Point",
                             "url": "https://youtu.be/mHvsndQdqpU",
-                            "description": "C point",
+                            "description": "C Point",
                             "tags": ["attack", "defense", "incendiary"]
                         }
                     ]
@@ -888,65 +888,65 @@
                     "videos": [
                         {
                             "id": 30301,
-                            "title": "A ramp",
+                            "title": "A Ramp",
                             "url": "https://youtu.be/9OEizGvQvho",
-                            "description": "A ramp",
+                            "description": "A Ramp",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30302,
-                            "title": "A rafters",
+                            "title": "A Rafters",
                             "url": "https://youtu.be/De464s9tu2I",
-                            "description": "A rafters",
+                            "description": "A Rafters",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30303,
-                            "title": "A heaven",
+                            "title": "A Heaven",
                             "url": "https://youtu.be/kVjJUeYlABo",
-                            "description": "A heaven",
+                            "description": "A Heaven",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30304,
-                            "title": "A ropes",
+                            "title": "A Ropes",
                             "url": "https://youtu.be/z3pKTDx5f_o",
-                            "description": "A ropes",
+                            "description": "A Ropes",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30305,
-                            "title": "A plant",
+                            "title": "A Plant",
                             "url": "https://youtu.be/iniRoewXqBI",
-                            "description": "A plant",
+                            "description": "A Plant",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30306,
-                            "title": "B plant",
+                            "title": "B Plant",
                             "url": "https://youtu.be/lh1o_jYv6Ys",
-                            "description": "B plant",
+                            "description": "B Plant",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30307,
-                            "title": "B heaven",
+                            "title": "B Heaven",
                             "url": "https://youtu.be/Y_N8tGxnju8",
-                            "description": "B heaven",
+                            "description": "B Heaven",
                             "tags": ["attack", "defense", "incendiary"]
                         },
                         {
                             "id": 30308,
-                            "title": "B corner",
+                            "title": "B Corner",
                             "url": "https://youtu.be/KtWCoFYA8Zk",
-                            "description": "B corner",
+                            "description": "B Corner",
                             "tags": ["attack", "incendiary"]
                         },
                         {
                             "id": 30309,
-                            "title": "B corner #2",
+                            "title": "B Corner #2",
                             "url": "https://youtu.be/c4xB_vE1Qyg",
-                            "description": "B corner #2",
+                            "description": "B Corner #2",
                             "tags": ["attack", "incendiary"]
                         }
                     ]
@@ -994,35 +994,35 @@
                             "id": 40101,
                             "title": "Hookah",
                             "url": "https://youtu.be/zvzCJQRndRM",
-                            "description": "A hookah",
+                            "description": "A Hookah",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40102,
                             "title": "Hookah #2",
                             "url": "https://youtu.be/4cnsogU1DHk",
-                            "description": "A hookah",
+                            "description": "A Hookah",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40103,
-                            "title": "B site",
+                            "title": "B Site",
                             "url": "https://youtu.be/DbKwijFBWFY",
-                            "description": "B site",
+                            "description": "B Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40104,
-                            "title": "A site",
+                            "title": "A Site",
                             "url": "https://youtu.be/agWYd64EsB4",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40105,
-                            "title": "A link",
+                            "title": "A Link",
                             "url": "https://youtu.be/Ur5FKRjwegY",
-                            "description": "A link",
+                            "description": "A Link",
                             "tags": ["defense", "attack", "spycam"]
                         }
                     ]
@@ -1035,44 +1035,44 @@
                     "videos": [
                         {
                             "id": 40201,
-                            "title": "A site",
+                            "title": "A Site",
                             "url": "https://youtu.be/QctRGWwJq0Q",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40202,
-                            "title": "A site #2",
+                            "title": "A Site #2",
                             "url": "https://youtu.be/TBsvT-rVH0E",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40203,
-                            "title": "A site #3",
+                            "title": "A Site #3",
                             "url": "https://youtu.be/T7AQuMbWM_A",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40204,
-                            "title": "B lobby and  A long",
+                            "title": "B Lobby and  A Long",
                             "url": "https://youtu.be/BzZaHW0eE8s",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["attack", "spycam"]
                         },
                         {
                             "id": 40205,
-                            "title": "C lobby",
+                            "title": "C Lobby",
                             "url": "https://youtu.be/ZB2H1CbYVy0",
-                            "description": "C lobby",
+                            "description": "C Lobby",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40206,
-                            "title": "C site",
+                            "title": "C Site",
                             "url": "https://youtu.be/EmOM5LMzW1Q",
-                            "description": "C site",
+                            "description": "C Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
@@ -1092,72 +1092,72 @@
                     "videos": [
                         {
                             "id": 40301,
-                            "title": "A site",
+                            "title": "A Site",
                             "url": "https://youtu.be/gd4iSLA69S4",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40302,
-                            "title": "A site #2",
+                            "title": "A Site #2",
                             "url": "https://youtu.be/rG3MCXKSplU",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40303,
-                            "title": "A oneway",
+                            "title": "A one way",
                             "url": "https://youtu.be/FJifpoCxQNY",
                             "description": "A one way cage",
                             "tags": ["defense", "attack", "cyber cage"]
                         },
                         {
                             "id": 40304,
-                            "title": "A oneway #2",
+                            "title": "A one way #2",
                             "url": "https://youtu.be/ckwiZrHMfCo",
                             "description": "A one way cage",
                             "tags": ["defense", "cyber cage"]
                         },
                         {
                             "id": 40305,
-                            "title": "Mid lobby",
+                            "title": "Mid Lobby",
                             "url": "https://youtu.be/CmN_ZN_7W4Q",
-                            "description": "Mid lobby cam",
+                            "description": "Mid Lobby cam",
                             "tags": ["defense", "spycam"]
                         },
                         {
                             "id": 40306,
-                            "title": "Mid lobby #2",
+                            "title": "Mid Lobby #2",
                             "url": "https://youtu.be/dWxKzFiUNPg",
-                            "description": "Mid lobby cam",
+                            "description": "Mid Lobby cam",
                             "tags": ["defense", "attack", "spycam"]
                         },
                         {
                             "id": 40307,
-                            "title": "Defender spawn",
+                            "title": "Defender Spawn",
                             "url": "https://youtu.be/oTUzepmy-Rk",
-                            "description": "defender spawn cam",
+                            "description": "Defender Spawn cam",
                             "tags": ["defense", "attack", "spycam"]
                         },
                         {
                             "id": 40308,
-                            "title": "B site",
+                            "title": "B Site",
                             "url": "https://youtu.be/fIUTVzHsxRs",
-                            "description": "B site cam",
+                            "description": "B Site cam",
                             "tags": ["defense", "attack", "spycam"]
                         },
                         {
                             "id": 40309,
-                            "title": "B site #2",
+                            "title": "B Site #2",
                             "url": "https://youtu.be/SoeJ20ZOjtI",
-                            "description": "B site cam",
+                            "description": "B Site cam",
                             "tags": ["defense", "attack", "spycam"]
                         },
                         {
                             "id": 40310,
-                            "title": "B lobby",
+                            "title": "B Lobby",
                             "url": "https://youtu.be/gqLv_mjZSts",
-                            "description": "B lobby cam",
+                            "description": "B Lobby cam",
                             "tags": ["defense", "attack", "spycam"]
                         }
                     ]
@@ -1170,9 +1170,9 @@
                     "videos": [
                         {
                             "id": 40301,
-                            "title": "Mid Link one-way",
+                            "title": "Mid Link one way",
                             "url": "https://youtu.be/uCy0RGbwYRg",
-                            "description": "Mid link one way from mid bottom",
+                            "description": "Mid Link one way from Mid Bottom",
                             "tags": ["defense", "cage"]
                         }
                     ]
@@ -1214,44 +1214,44 @@
                     "videos": [
                         {
                             "id": 50101,
-                            "title": "A short",
+                            "title": "A Short",
                             "url": "https://youtu.be/5a4ALp50x4Y",
-                            "description": "A short",
+                            "description": "A Short",
                             "tags": ["attack", "barrier orb", "slow orb"]
                         },
                         {
                             "id": 50102,
-                            "title": "A bath",
+                            "title": "A Bath",
                             "url": "https://youtu.be/PsJHAI913KI",
-                            "description": "A bath",
+                            "description": "A Bath",
                             "tags": ["attack", "barrier orb"]
                         },
                         {
                             "id": 50103,
-                            "title": "A site",
+                            "title": "A Site",
                             "url": "https://youtu.be/nzW79S0Youk",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "barrier orb"]
                         },
                         {
                             "id": 50104,
-                            "title": "A site #2",
+                            "title": "A Site #2",
                             "url": "https://youtu.be/RmNjQMW3DbM",
-                            "description": "A site",
+                            "description": "A Site",
                             "tags": ["defense", "barrier orb"]
                         },
                         {
                             "id": 50105,
-                            "title": "A short",
+                            "title": "A Short",
                             "url": "https://youtu.be/zKMGl9lnZvU",
-                            "description": "A short",
+                            "description": "A Short",
                             "tags": ["defense", "barrier orb"]
                         },
                         {
                             "id": 50106,
-                            "title": "A short #2",
+                            "title": "A Short #2",
                             "url": "https://youtu.be/2Goqajy6UEQ",
-                            "description": "A short",
+                            "description": "A Short",
                             "tags": ["defense", "barrier orb"]
                         },
                         {
@@ -1263,9 +1263,9 @@
                         },
                         {
                             "id": 50108,
-                            "title": "B long",
+                            "title": "B Long",
                             "url": "https://youtu.be/tlqEkW69Urk",
-                            "description": "B long",
+                            "description": "B Long",
                             "tags": ["defense", "barrier orb"]
                         }
                     ]
@@ -1278,23 +1278,23 @@
                     "videos": [
                         {
                             "id": 50201,
-                            "title": "A long",
+                            "title": "A Long",
                             "url": "https://youtu.be/6sp0yOem00c",
-                            "description": "A long",
+                            "description": "A Long",
                             "tags": ["defense", "barrier orb"]
                         },
                         {
                             "id": 50202,
-                            "title": "B site",
+                            "title": "B Site",
                             "url": "https://youtu.be/-d0s7Prl19g",
-                            "description": "A long",
+                            "description": "A Long",
                             "tags": ["defense", "barrier orb"]
                         },
                         {
                             "id": 50203,
-                            "title": "C site",
+                            "title": "C Site",
                             "url": "https://youtu.be/PCuYecohbIA",
-                            "description": "C site",
+                            "description": "C Site",
                             "tags": ["defense", "barrier orb"]
                         }
                     ]
@@ -1316,7 +1316,7 @@
                             "id": 50302,
                             "title": "A",
                             "url": "https://youtu.be/JNX_JftoYHk",
-                            "description": "A ",
+                            "description": "A",
                             "tags": ["defense", "barrier orb"]
                         }
                     ]
