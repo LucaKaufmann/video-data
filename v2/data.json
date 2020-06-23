@@ -383,6 +383,77 @@
                             "tags": ["defense", "smoke"]
                         }
                     ]
+                },
+                {
+                    "id": 104,
+                    "title": "Ascent",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10401,
+                            "title": "A Main",
+                            "url": "https://youtu.be/XPATeGMfxq8",
+                            "description": "Smoke covering A main door",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10402,
+                            "title": "B Main",
+                            "url": "https://youtu.be/AyO80gAbgUc",
+                            "description": "Smoke covering B main door",
+                            "tags": ["defense", "smoke"]
+                        },
+                        {
+                            "id": 10403,
+                            "title": "A Link",
+                            "url": "https://youtu.be/Fw-l4Wm3lpk",
+                            "description": "Smoke covering A link",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10404,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/Zjb32mUc1Ws",
+                            "description": "Smoke covering A heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10405,
+                            "title": "Mid Cubby to A Heaven",
+                            "url": "https://youtu.be/kOY_sTfZcP4",
+                            "description": "Smoke covering A heaven",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10406,
+                            "title": "B Main to B Site",
+                            "url": "https://youtu.be/j_1HmUz-gyo",
+                            "description": "Smoke covering B Site from B Main",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10407,
+                            "title": "B Main to Mid Market",
+                            "url": "https://youtu.be/MDY1KnYrM6w",
+                            "description": "Smoke covering B Market from B Main",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10408,
+                            "title": "Mid Link to Mid Cubby",
+                            "url": "https://youtu.be/qrpVbgxAlBs",
+                            "description": "Smoke covering Mid Link from Mid Cubby",
+                            "tags": ["attack", "smoke"]
+                        },
+                        {
+                            "id": 10409,
+                            "title": "Mid Link to Mid Bottom",
+                            "url": "https://youtu.be/Qatojp_f-l8",
+                            "description": "Smoke covering Mid Link from Mid Bottom",
+                            "tags": ["attack", "smoke"]
+                        }  
+                    ]
                 }
 
             ]
@@ -1088,6 +1159,21 @@
                             "url": "https://youtu.be/gqLv_mjZSts",
                             "description": "B lobby cam",
                             "tags": ["defense", "attack", "spycam"]
+                        }
+                    ]
+                },
+                {
+                    "id": 404,
+                    "title": "Ascent",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40301,
+                            "title": "Mid Link one-way",
+                            "url": "https://youtu.be/uCy0RGbwYRg",
+                            "description": "Mid link one way from mid bottom",
+                            "tags": ["defense", "cage"]
                         }
                     ]
                 }
