@@ -8,6 +8,902 @@
     "aboutUrl": "https://raw.githubusercontent.com/LucaKaufmann/video-data/master/about.md",
     "topics" : [
         {
+            "title": "Brimstone",
+            "id": 1,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/orbital-strike-black.png",
+            "thumbnails": [
+                {
+                    "id": "sky smoke",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/sky-smoke-black.png"
+                },
+                {
+                    "id": "incendiary",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/incendiary-black.png"
+                },
+                {
+                    "id": "stim beacon",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/stim-beacon-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/orbital-strike-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 1,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10101,
+                            "title": "A Hookah",
+                            "url": "https://youtu.be/aBjg5qmRf9w",
+                            "description": "A Hookah",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10102,
+                            "title": "B Plant #1",
+                            "url": "https://youtu.be/CWhC3azod00",
+                            "description": "B Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10103,
+                            "title": "B Plant #2",
+                            "url": "https://youtu.be/tFXbyhF3_io",
+                            "description": "B Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10104,
+                            "title": "B Plant #3",
+                            "url": "https://youtu.be/fXRZmC76g2I",
+                            "description": "B Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10105,
+                            "title": "A Bath U-Hall",
+                            "url": "https://youtu.be/pkU2R0l-Hcc",
+                            "description": "U Hall",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10106,
+                            "title": "A Short U-Hall",
+                            "url": "https://youtu.be/tFJaD1I1eW8",
+                            "description": "U Hall",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10107,
+                            "title": "A Point",
+                            "url": "https://youtu.be/EAini8DPBtA",
+                            "description": "U Point",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10108,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/4E6v9yQiogY",
+                            "description": "A Heaven",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10109,
+                            "title": "A Cubby",
+                            "url": "https://youtu.be/NcskICelqOw",
+                            "description": "A Cubby",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10201,
+                            "title": "A Plant",
+                            "url": "https://youtu.be/xmuTl6SJpII",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10202,
+                            "title": "A Plant #2",
+                            "url": "https://youtu.be/723aJK0z6L8",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10203,
+                            "title": "A Plant A long",
+                            "url": "https://youtu.be/7NFV5QGVvVM",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10204,
+                            "title": "B Plant",
+                            "url": "https://youtu.be/YX3yHTvuy6A",
+                            "description": "B Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10205,
+                            "title": "B Plant #2",
+                            "url": "https://youtu.be/wmzd6tRQ1Qg",
+                            "description": "B Plant #2",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10206,
+                            "title": "B Back",
+                            "url": "https://youtu.be/VzdYs9VauaY",
+                            "description": "B Back",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10207,
+                            "title": "B Back #2",
+                            "url": "https://youtu.be/lnKF2oUvB7c",
+                            "description": "B Back",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10208,
+                            "title": "B Boxes left",
+                            "url": "https://youtu.be/7EeQx_ZdZzE",
+                            "description": "B Boxes left",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10209,
+                            "title": "B Boxes right",
+                            "url": "https://youtu.be/edrIL7xLveA",
+                            "description": "B Boxes right",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10210,
+                            "title": "Garage",
+                            "url": "https://youtu.be/_FHNLzGV0v0",
+                            "description": "Garage",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10211,
+                            "title": "C Back",
+                            "url": "https://youtu.be/4UIHYnl0SL0",
+                            "description": "C Back",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10212,
+                            "title": "C Back #2",
+                            "url": "https://youtu.be/yYHZIPdaYXI",
+                            "description": "C Back #2",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10213,
+                            "title": "C Point",
+                            "url": "https://youtu.be/mHvsndQdqpU",
+                            "description": "C Point",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        }
+                    ]
+                },
+                {
+                    "id": 103,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
+                    "videos": [
+                        {
+                            "id": 10301,
+                            "title": "A Ramp",
+                            "url": "https://youtu.be/9OEizGvQvho",
+                            "description": "A Ramp",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10302,
+                            "title": "A Rafters",
+                            "url": "https://youtu.be/De464s9tu2I",
+                            "description": "A Rafters",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10303,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/kVjJUeYlABo",
+                            "description": "A Heaven",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10304,
+                            "title": "A Ropes",
+                            "url": "https://youtu.be/z3pKTDx5f_o",
+                            "description": "A Ropes",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10305,
+                            "title": "A Plant",
+                            "url": "https://youtu.be/iniRoewXqBI",
+                            "description": "A Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10306,
+                            "title": "B Plant",
+                            "url": "https://youtu.be/lh1o_jYv6Ys",
+                            "description": "B Plant",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10307,
+                            "title": "B Heaven",
+                            "url": "https://youtu.be/Y_N8tGxnju8",
+                            "description": "B Heaven",
+                            "tags": ["attack", "defense", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10308,
+                            "title": "B Corner",
+                            "url": "https://youtu.be/KtWCoFYA8Zk",
+                            "description": "B Corner",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10309,
+                            "title": "B Corner #2",
+                            "url": "https://youtu.be/c4xB_vE1Qyg",
+                            "description": "B Corner #2",
+                            "tags": ["attack", "incendiary"],
+                            "author": "Hotky"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Cypher",
+            "id": 2,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/neural-theft-black.png",
+            "thumbnails": [
+                {
+                    "id": "cyber cage",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/cyber-cage-black.png"
+                },
+                {
+                    "id": "trapwire",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/trapwire-black.png"
+                },
+                {
+                    "id": "spycam",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/spycam-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/neural-theft-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 401,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40101,
+                            "title": "Hookah",
+                            "url": "https://youtu.be/zvzCJQRndRM",
+                            "description": "A Hookah",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40102,
+                            "title": "Hookah #2",
+                            "url": "https://youtu.be/4cnsogU1DHk",
+                            "description": "A Hookah",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40103,
+                            "title": "B Site",
+                            "url": "https://youtu.be/DbKwijFBWFY",
+                            "description": "B Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40104,
+                            "title": "A Site",
+                            "url": "https://youtu.be/agWYd64EsB4",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40105,
+                            "title": "A Link",
+                            "url": "https://youtu.be/Ur5FKRjwegY",
+                            "description": "A Link",
+                            "tags": ["defense", "attack", "spycam"]
+                        }
+                    ]
+                },
+                {
+                    "id": 402,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40201,
+                            "title": "A Site",
+                            "url": "https://youtu.be/QctRGWwJq0Q",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40202,
+                            "title": "A Site #2",
+                            "url": "https://youtu.be/TBsvT-rVH0E",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40203,
+                            "title": "A Site #3",
+                            "url": "https://youtu.be/T7AQuMbWM_A",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40204,
+                            "title": "B Lobby and  A Long",
+                            "url": "https://youtu.be/BzZaHW0eE8s",
+                            "description": "A Site",
+                            "tags": ["attack", "spycam"]
+                        },
+                        {
+                            "id": 40205,
+                            "title": "C Lobby",
+                            "url": "https://youtu.be/ZB2H1CbYVy0",
+                            "description": "C Lobby",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40206,
+                            "title": "C Site",
+                            "url": "https://youtu.be/EmOM5LMzW1Q",
+                            "description": "C Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40207,
+                            "title": "Garage",
+                            "url": "https://youtu.be/99mSBnbjIzA",
+                            "description": "Garage",
+                            "tags": ["defense", "attack", "spycam"]
+                        }
+                    ]
+                },
+                {
+                    "id": 403,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40301,
+                            "title": "A Site",
+                            "url": "https://youtu.be/gd4iSLA69S4",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40302,
+                            "title": "A Site #2",
+                            "url": "https://youtu.be/rG3MCXKSplU",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40303,
+                            "title": "A one way",
+                            "url": "https://youtu.be/FJifpoCxQNY",
+                            "description": "A one way cage",
+                            "tags": ["defense", "attack", "cyber cage"]
+                        },
+                        {
+                            "id": 40304,
+                            "title": "A one way #2",
+                            "url": "https://youtu.be/ckwiZrHMfCo",
+                            "description": "A one way cage",
+                            "tags": ["defense", "cyber cage"]
+                        },
+                        {
+                            "id": 40305,
+                            "title": "Mid Lobby",
+                            "url": "https://youtu.be/CmN_ZN_7W4Q",
+                            "description": "Mid Lobby cam",
+                            "tags": ["defense", "spycam"]
+                        },
+                        {
+                            "id": 40306,
+                            "title": "Mid Lobby #2",
+                            "url": "https://youtu.be/dWxKzFiUNPg",
+                            "description": "Mid Lobby cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40307,
+                            "title": "Defender Spawn",
+                            "url": "https://youtu.be/oTUzepmy-Rk",
+                            "description": "Defender Spawn cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40308,
+                            "title": "B Site",
+                            "url": "https://youtu.be/fIUTVzHsxRs",
+                            "description": "B Site cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40309,
+                            "title": "B Site #2",
+                            "url": "https://youtu.be/SoeJ20ZOjtI",
+                            "description": "B Site cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        },
+                        {
+                            "id": 40310,
+                            "title": "B Lobby",
+                            "url": "https://youtu.be/gqLv_mjZSts",
+                            "description": "B Lobby cam",
+                            "tags": ["defense", "attack", "spycam"]
+                        }
+                    ]
+                },
+                {
+                    "id": 404,
+                    "title": "Ascent",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 40301,
+                            "title": "Mid Link one way",
+                            "url": "https://youtu.be/uCy0RGbwYRg",
+                            "description": "Mid Link one way from Mid Bottom",
+                            "tags": ["defense", "cage"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sage",
+            "id": 5,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png",
+            "thumbnails": [
+                {
+                    "id": "barrier orb",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/barrier-orb-black.png"
+                },
+                {
+                    "id": "slow orb",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/slow-orb-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 501,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
+                    "videos": [
+                        {
+                            "id": 50101,
+                            "title": "A Short",
+                            "url": "https://youtu.be/5a4ALp50x4Y",
+                            "description": "A Short",
+                            "tags": ["attack", "barrier orb", "slow orb"]
+                        },
+                        {
+                            "id": 50102,
+                            "title": "A Bath",
+                            "url": "https://youtu.be/PsJHAI913KI",
+                            "description": "A Bath",
+                            "tags": ["attack", "barrier orb"]
+                        },
+                        {
+                            "id": 50103,
+                            "title": "A Site",
+                            "url": "https://youtu.be/nzW79S0Youk",
+                            "description": "A Site",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50104,
+                            "title": "A Site #2",
+                            "url": "https://youtu.be/RmNjQMW3DbM",
+                            "description": "A Site",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50105,
+                            "title": "A Short",
+                            "url": "https://youtu.be/zKMGl9lnZvU",
+                            "description": "A Short",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50106,
+                            "title": "A Short #2",
+                            "url": "https://youtu.be/2Goqajy6UEQ",
+                            "description": "A Short",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50107,
+                            "title": "Hookah",
+                            "url": "https://youtu.be/0iFGHS9zuy8",
+                            "description": "Hookah",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50108,
+                            "title": "B Long",
+                            "url": "https://youtu.be/tlqEkW69Urk",
+                            "description": "B Long",
+                            "tags": ["defense", "barrier orb"]
+                        }
+                    ]
+                },
+                {
+                    "id": 502,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
+                    "videos": [
+                        {
+                            "id": 50201,
+                            "title": "A Long",
+                            "url": "https://youtu.be/6sp0yOem00c",
+                            "description": "A Long",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50202,
+                            "title": "B Site",
+                            "url": "https://youtu.be/-d0s7Prl19g",
+                            "description": "A Long",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50203,
+                            "title": "C Site",
+                            "url": "https://youtu.be/PCuYecohbIA",
+                            "description": "C Site",
+                            "tags": ["defense", "barrier orb"]
+                        }
+                    ]
+                },
+                {
+                    "id": 503,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
+                    "videos": [
+                        {
+                            "id": 50301,
+                            "title": "Mid",
+                            "url": "https://youtu.be/EEF716hjkco",
+                            "description": "Mid",
+                            "tags": ["defense", "barrier orb"]
+                        },
+                        {
+                            "id": 50302,
+                            "title": "A",
+                            "url": "https://youtu.be/JNX_JftoYHk",
+                            "description": "A",
+                            "tags": ["defense", "barrier orb"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sova",
+            "id": 2,
+            "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
+            "thumbnails": [
+                {
+                    "id": "recon arrow",
+                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/recon-bolt-black.png"
+                },
+                {
+                    "id": "shock dart",
+                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/shock-bolt-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 201,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 20101,
+                            "title": "A",
+                            "url": "https://youtu.be/VYGjk1FwxrY",
+                            "description": "Recon arrow A",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20102,
+                            "title": "A #2",
+                            "url": "https://youtu.be/EVYyH2q1L5A",
+                            "description": "Recon arrow A Back",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20103,
+                            "title": "A Front",
+                            "url": "https://youtu.be/isoobs5b390",
+                            "description": "Recon arrow A Front",
+                            "tags": ["aattack", "recon arrow"]
+                        },
+                        {
+                            "id": 20104,
+                            "title": "A Back",
+                            "url": "https://youtu.be/OxDY9lP4TaI",
+                            "description": "Recon arrow A Back",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20105,
+                            "title": "B Elbow",
+                            "url": "https://youtu.be/_CyxTUapYNA",
+                            "description": "Recon arrow B Elbow",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20106,
+                            "title": "B Hookah",
+                            "url": "https://youtu.be/7nr6rJZegU4",
+                            "description": "Recon arrow Hookah Back",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20107,
+                            "title": "B Hookah #2",
+                            "url": "https://youtu.be/N5Gehh0_VXU",
+                            "description": "Recon arrow Hookah",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20108,
+                            "title": "Defense Hookah",
+                            "url": "https://youtu.be/tzUr83mwWpQ",
+                            "description": "Recon arrow Hookah",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20109,
+                            "title": "B Long",
+                            "url": "https://youtu.be/9uWmx4bAJSg",
+                            "description": "Recon arrow B Long",
+                            "tags": ["defense", "recon arrow"]
+                        }
+                    ]
+                },
+                {
+                    "id": 202,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 20201,
+                            "title": "A Long",
+                            "url": "https://youtu.be/kyR53mFSe-M",
+                            "description": "Recon arrow A Long",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20202,
+                            "title": "B",
+                            "url": "https://youtu.be/2Xls4Z38i2M",
+                            "description": "Recon arrow B Point",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20203,
+                            "title": "C",
+                            "url": "https://youtu.be/6mo-wm8S_Qw",
+                            "description": "Recon arrow C Point",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20204,
+                            "title": "A Attacker Spawn",
+                            "url": "https://youtu.be/Crqa7dAvMi0",
+                            "description": "Recon arrow Attacker Spawn A",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20205,
+                            "title": "A from B",
+                            "url": "https://youtu.be/rYJouw8Zm1o",
+                            "description": "Recon arrow onto A from B",
+                            "tags": ["defense", "attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20206,
+                            "title": "B Plant",
+                            "url": "https://youtu.be/1TMLccL2cG4",
+                            "description": "Shock arrow on B Plant Spot",
+                            "tags": ["defense", "attack", "shock dart"]
+                        },
+                        {
+                            "id": 20207,
+                            "title": "B #2",
+                            "url": "https://youtu.be/8HhESiQVqRI",
+                            "description": "B from Doorway",
+                            "tags": ["defense", "attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20208,
+                            "title": "C Plant",
+                            "url": "https://youtu.be/skUTzFcYdzU",
+                            "description": "C plant spot",
+                            "tags": ["defense", "attack", "shock dart"]
+                        },
+                        {
+                            "id": 20209,
+                            "title": "C Long",
+                            "url": "https://youtu.be/JTGj2bFM5Fs",
+                            "description": "C Long for Defenders",
+                            "tags": ["defense", "recon arrow"]
+                        },
+                        {
+                            "id": 20210,
+                            "title": "Garage",
+                            "url": "https://youtu.be/2s650fgrhuE",
+                            "description": "Recon arrow outside of Garage",
+                            "tags": ["defense", "recon arrow"]
+                        }
+                    ]
+                },
+                {
+                    "id": 203,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 20301,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/CyLgfkukTAA",
+                            "description": "Recon arrow on A Heaven",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20302,
+                            "title": "A Point",
+                            "url": "https://youtu.be/azNFtnx94-4",
+                            "description": "Recon arrow on A Point",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20303,
+                            "title": "B",
+                            "url": "https://youtu.be/TeXopO7Wo2o",
+                            "description": "Recon arrow on B",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20304,
+                            "title": "B #2",
+                            "url": "https://youtu.be/IyUaR9DJ_2Q",
+                            "description": "Recon arrow on B from Heaven",
+                            "tags": ["attack", "recon arrow"]
+                        },
+                        {
+                            "id": 20305,
+                            "title": "A Attacker Spawn",
+                            "url": "https://youtu.be/bFMPcFVV1lg",
+                            "description": "Recon arrow on A Attacker Spawn",
+                            "tags": ["defense", "recon arrow"]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Viper",
             "id": 1,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/vipers-pit-black.png",
@@ -456,871 +1352,6 @@
                     ]
                 }
 
-            ]
-        },
-        {
-            "title": "Sova",
-            "id": 2,
-            "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
-            "thumbnails": [
-                {
-                    "id": "recon arrow",
-                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/recon-bolt-black.png"
-                },
-                {
-                    "id": "shock dart",
-                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/shock-bolt-black.png"
-                },
-                {
-                    "id": "ult",
-                    "url": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png"
-                },
-                {
-                    "id": "attack",
-                    "url": ""
-                },
-                {
-                    "id": "defense",
-                    "url": ""
-                }
-            ],
-            "subTopics": [
-                {
-                    "id": 201,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
-                    "videos": [
-                        {
-                            "id": 20101,
-                            "title": "A",
-                            "url": "https://youtu.be/VYGjk1FwxrY",
-                            "description": "Recon arrow A",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20102,
-                            "title": "A #2",
-                            "url": "https://youtu.be/EVYyH2q1L5A",
-                            "description": "Recon arrow A Back",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20103,
-                            "title": "A Front",
-                            "url": "https://youtu.be/isoobs5b390",
-                            "description": "Recon arrow A Front",
-                            "tags": ["aattack", "recon arrow"]
-                        },
-                        {
-                            "id": 20104,
-                            "title": "A Back",
-                            "url": "https://youtu.be/OxDY9lP4TaI",
-                            "description": "Recon arrow A Back",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20105,
-                            "title": "B Elbow",
-                            "url": "https://youtu.be/_CyxTUapYNA",
-                            "description": "Recon arrow B Elbow",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20106,
-                            "title": "B Hookah",
-                            "url": "https://youtu.be/7nr6rJZegU4",
-                            "description": "Recon arrow Hookah Back",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20107,
-                            "title": "B Hookah #2",
-                            "url": "https://youtu.be/N5Gehh0_VXU",
-                            "description": "Recon arrow Hookah",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20108,
-                            "title": "Defense Hookah",
-                            "url": "https://youtu.be/tzUr83mwWpQ",
-                            "description": "Recon arrow Hookah",
-                            "tags": ["defense", "recon arrow"]
-                        },
-                        {
-                            "id": 20109,
-                            "title": "B Long",
-                            "url": "https://youtu.be/9uWmx4bAJSg",
-                            "description": "Recon arrow B Long",
-                            "tags": ["defense", "recon arrow"]
-                        }
-                    ]
-                },
-                {
-                    "id": 202,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
-                    "videos": [
-                        {
-                            "id": 20201,
-                            "title": "A Long",
-                            "url": "https://youtu.be/kyR53mFSe-M",
-                            "description": "Recon arrow A Long",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20202,
-                            "title": "B",
-                            "url": "https://youtu.be/2Xls4Z38i2M",
-                            "description": "Recon arrow B Point",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20203,
-                            "title": "C",
-                            "url": "https://youtu.be/6mo-wm8S_Qw",
-                            "description": "Recon arrow C Point",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20204,
-                            "title": "A Attacker Spawn",
-                            "url": "https://youtu.be/Crqa7dAvMi0",
-                            "description": "Recon arrow Attacker Spawn A",
-                            "tags": ["defense", "recon arrow"]
-                        },
-                        {
-                            "id": 20205,
-                            "title": "A from B",
-                            "url": "https://youtu.be/rYJouw8Zm1o",
-                            "description": "Recon arrow onto A from B",
-                            "tags": ["defense", "attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20206,
-                            "title": "B Plant",
-                            "url": "https://youtu.be/1TMLccL2cG4",
-                            "description": "Shock arrow on B Plant Spot",
-                            "tags": ["defense", "attack", "shock dart"]
-                        },
-                        {
-                            "id": 20207,
-                            "title": "B #2",
-                            "url": "https://youtu.be/8HhESiQVqRI",
-                            "description": "B from Doorway",
-                            "tags": ["defense", "attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20208,
-                            "title": "C Plant",
-                            "url": "https://youtu.be/skUTzFcYdzU",
-                            "description": "C plant spot",
-                            "tags": ["defense", "attack", "shock dart"]
-                        },
-                        {
-                            "id": 20209,
-                            "title": "C Long",
-                            "url": "https://youtu.be/JTGj2bFM5Fs",
-                            "description": "C Long for Defenders",
-                            "tags": ["defense", "recon arrow"]
-                        },
-                        {
-                            "id": 20210,
-                            "title": "Garage",
-                            "url": "https://youtu.be/2s650fgrhuE",
-                            "description": "Recon arrow outside of Garage",
-                            "tags": ["defense", "recon arrow"]
-                        }
-                    ]
-                },
-                {
-                    "id": 203,
-                    "title": "Split",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
-                    "videos": [
-                        {
-                            "id": 20301,
-                            "title": "A Heaven",
-                            "url": "https://youtu.be/CyLgfkukTAA",
-                            "description": "Recon arrow on A Heaven",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20302,
-                            "title": "A Point",
-                            "url": "https://youtu.be/azNFtnx94-4",
-                            "description": "Recon arrow on A Point",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20303,
-                            "title": "B",
-                            "url": "https://youtu.be/TeXopO7Wo2o",
-                            "description": "Recon arrow on B",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20304,
-                            "title": "B #2",
-                            "url": "https://youtu.be/IyUaR9DJ_2Q",
-                            "description": "Recon arrow on B from Heaven",
-                            "tags": ["attack", "recon arrow"]
-                        },
-                        {
-                            "id": 20305,
-                            "title": "A Attacker Spawn",
-                            "url": "https://youtu.be/bFMPcFVV1lg",
-                            "description": "Recon arrow on A Attacker Spawn",
-                            "tags": ["defense", "recon arrow"]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Brimstone",
-            "id": 3,
-            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/orbital-strike-black.png",
-            "thumbnails": [
-                {
-                    "id": "sky smoke",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/sky-smoke-black.png"
-                },
-                {
-                    "id": "incendiary",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/incendiary-black.png"
-                },
-                {
-                    "id": "stim beacon",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/stim-beacon-black.png"
-                },
-                {
-                    "id": "ult",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/orbital-strike-black.png"
-                },
-                {
-                    "id": "attack",
-                    "url": ""
-                },
-                {
-                    "id": "defense",
-                    "url": ""
-                }
-            ],
-            "subTopics": [
-                {
-                    "id": 301,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
-                    "videos": [
-                        {
-                            "id": 30101,
-                            "title": "A Hookah",
-                            "url": "https://youtu.be/aBjg5qmRf9w",
-                            "description": "A Hookah",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30102,
-                            "title": "B Plant #1",
-                            "url": "https://youtu.be/CWhC3azod00",
-                            "description": "B Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30103,
-                            "title": "B Plant #2",
-                            "url": "https://youtu.be/tFXbyhF3_io",
-                            "description": "B Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30104,
-                            "title": "B Plant #3",
-                            "url": "https://youtu.be/fXRZmC76g2I",
-                            "description": "B Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30105,
-                            "title": "A Bath U-Hall",
-                            "url": "https://youtu.be/pkU2R0l-Hcc",
-                            "description": "U Hall",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30106,
-                            "title": "A Short U-Hall",
-                            "url": "https://youtu.be/tFJaD1I1eW8",
-                            "description": "U Hall",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30107,
-                            "title": "A Point",
-                            "url": "https://youtu.be/EAini8DPBtA",
-                            "description": "U Point",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30108,
-                            "title": "A Heaven",
-                            "url": "https://youtu.be/4E6v9yQiogY",
-                            "description": "A Heaven",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30109,
-                            "title": "A Cubby",
-                            "url": "https://youtu.be/NcskICelqOw",
-                            "description": "A Cubby",
-                            "tags": ["attack", "incendiary"]
-                        }
-                    ]
-                },
-                {
-                    "id": 302,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
-                    "videos": [
-                        {
-                            "id": 30201,
-                            "title": "A Plant",
-                            "url": "https://youtu.be/xmuTl6SJpII",
-                            "description": "A Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30202,
-                            "title": "A Plant #2",
-                            "url": "https://youtu.be/723aJK0z6L8",
-                            "description": "A Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30203,
-                            "title": "A Plant A long",
-                            "url": "https://youtu.be/7NFV5QGVvVM",
-                            "description": "A Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30204,
-                            "title": "B Plant",
-                            "url": "https://youtu.be/YX3yHTvuy6A",
-                            "description": "B Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30205,
-                            "title": "B Plant #2",
-                            "url": "https://youtu.be/wmzd6tRQ1Qg",
-                            "description": "B Plant #2",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30206,
-                            "title": "B Back",
-                            "url": "https://youtu.be/VzdYs9VauaY",
-                            "description": "B Back",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30207,
-                            "title": "B Back #2",
-                            "url": "https://youtu.be/lnKF2oUvB7c",
-                            "description": "B Back",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30208,
-                            "title": "B Boxes left",
-                            "url": "https://youtu.be/7EeQx_ZdZzE",
-                            "description": "B Boxes left",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30209,
-                            "title": "B Boxes right",
-                            "url": "https://youtu.be/edrIL7xLveA",
-                            "description": "B Boxes right",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30210,
-                            "title": "Garage",
-                            "url": "https://youtu.be/_FHNLzGV0v0",
-                            "description": "Garage",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30211,
-                            "title": "C Back",
-                            "url": "https://youtu.be/4UIHYnl0SL0",
-                            "description": "C Back",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30212,
-                            "title": "C Back #2",
-                            "url": "https://youtu.be/yYHZIPdaYXI",
-                            "description": "C Back #2",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30213,
-                            "title": "C Point",
-                            "url": "https://youtu.be/mHvsndQdqpU",
-                            "description": "C Point",
-                            "tags": ["attack", "defense", "incendiary"]
-                        }
-                    ]
-                },
-                {
-                    "id": 303,
-                    "title": "Split",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
-                    "videos": [
-                        {
-                            "id": 30301,
-                            "title": "A Ramp",
-                            "url": "https://youtu.be/9OEizGvQvho",
-                            "description": "A Ramp",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30302,
-                            "title": "A Rafters",
-                            "url": "https://youtu.be/De464s9tu2I",
-                            "description": "A Rafters",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30303,
-                            "title": "A Heaven",
-                            "url": "https://youtu.be/kVjJUeYlABo",
-                            "description": "A Heaven",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30304,
-                            "title": "A Ropes",
-                            "url": "https://youtu.be/z3pKTDx5f_o",
-                            "description": "A Ropes",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30305,
-                            "title": "A Plant",
-                            "url": "https://youtu.be/iniRoewXqBI",
-                            "description": "A Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30306,
-                            "title": "B Plant",
-                            "url": "https://youtu.be/lh1o_jYv6Ys",
-                            "description": "B Plant",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30307,
-                            "title": "B Heaven",
-                            "url": "https://youtu.be/Y_N8tGxnju8",
-                            "description": "B Heaven",
-                            "tags": ["attack", "defense", "incendiary"]
-                        },
-                        {
-                            "id": 30308,
-                            "title": "B Corner",
-                            "url": "https://youtu.be/KtWCoFYA8Zk",
-                            "description": "B Corner",
-                            "tags": ["attack", "incendiary"]
-                        },
-                        {
-                            "id": 30309,
-                            "title": "B Corner #2",
-                            "url": "https://youtu.be/c4xB_vE1Qyg",
-                            "description": "B Corner #2",
-                            "tags": ["attack", "incendiary"]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Cypher",
-            "id": 4,
-            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/neural-theft-black.png",
-            "thumbnails": [
-                {
-                    "id": "cyber cage",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/cyber-cage-black.png"
-                },
-                {
-                    "id": "trapwire",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/trapwire-black.png"
-                },
-                {
-                    "id": "spycam",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/spycam-black.png"
-                },
-                {
-                    "id": "ult",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/neural-theft-black.png"
-                },
-                {
-                    "id": "attack",
-                    "url": ""
-                },
-                {
-                    "id": "defense",
-                    "url": ""
-                }
-            ],
-            "subTopics": [
-                {
-                    "id": 401,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40101,
-                            "title": "Hookah",
-                            "url": "https://youtu.be/zvzCJQRndRM",
-                            "description": "A Hookah",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40102,
-                            "title": "Hookah #2",
-                            "url": "https://youtu.be/4cnsogU1DHk",
-                            "description": "A Hookah",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40103,
-                            "title": "B Site",
-                            "url": "https://youtu.be/DbKwijFBWFY",
-                            "description": "B Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40104,
-                            "title": "A Site",
-                            "url": "https://youtu.be/agWYd64EsB4",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40105,
-                            "title": "A Link",
-                            "url": "https://youtu.be/Ur5FKRjwegY",
-                            "description": "A Link",
-                            "tags": ["defense", "attack", "spycam"]
-                        }
-                    ]
-                },
-                {
-                    "id": 402,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40201,
-                            "title": "A Site",
-                            "url": "https://youtu.be/QctRGWwJq0Q",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40202,
-                            "title": "A Site #2",
-                            "url": "https://youtu.be/TBsvT-rVH0E",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40203,
-                            "title": "A Site #3",
-                            "url": "https://youtu.be/T7AQuMbWM_A",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40204,
-                            "title": "B Lobby and  A Long",
-                            "url": "https://youtu.be/BzZaHW0eE8s",
-                            "description": "A Site",
-                            "tags": ["attack", "spycam"]
-                        },
-                        {
-                            "id": 40205,
-                            "title": "C Lobby",
-                            "url": "https://youtu.be/ZB2H1CbYVy0",
-                            "description": "C Lobby",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40206,
-                            "title": "C Site",
-                            "url": "https://youtu.be/EmOM5LMzW1Q",
-                            "description": "C Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40207,
-                            "title": "Garage",
-                            "url": "https://youtu.be/99mSBnbjIzA",
-                            "description": "Garage",
-                            "tags": ["defense", "attack", "spycam"]
-                        }
-                    ]
-                },
-                {
-                    "id": 403,
-                    "title": "Split",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40301,
-                            "title": "A Site",
-                            "url": "https://youtu.be/gd4iSLA69S4",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40302,
-                            "title": "A Site #2",
-                            "url": "https://youtu.be/rG3MCXKSplU",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40303,
-                            "title": "A one way",
-                            "url": "https://youtu.be/FJifpoCxQNY",
-                            "description": "A one way cage",
-                            "tags": ["defense", "attack", "cyber cage"]
-                        },
-                        {
-                            "id": 40304,
-                            "title": "A one way #2",
-                            "url": "https://youtu.be/ckwiZrHMfCo",
-                            "description": "A one way cage",
-                            "tags": ["defense", "cyber cage"]
-                        },
-                        {
-                            "id": 40305,
-                            "title": "Mid Lobby",
-                            "url": "https://youtu.be/CmN_ZN_7W4Q",
-                            "description": "Mid Lobby cam",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40306,
-                            "title": "Mid Lobby #2",
-                            "url": "https://youtu.be/dWxKzFiUNPg",
-                            "description": "Mid Lobby cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40307,
-                            "title": "Defender Spawn",
-                            "url": "https://youtu.be/oTUzepmy-Rk",
-                            "description": "Defender Spawn cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40308,
-                            "title": "B Site",
-                            "url": "https://youtu.be/fIUTVzHsxRs",
-                            "description": "B Site cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40309,
-                            "title": "B Site #2",
-                            "url": "https://youtu.be/SoeJ20ZOjtI",
-                            "description": "B Site cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40310,
-                            "title": "B Lobby",
-                            "url": "https://youtu.be/gqLv_mjZSts",
-                            "description": "B Lobby cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        }
-                    ]
-                },
-                {
-                    "id": 404,
-                    "title": "Ascent",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40301,
-                            "title": "Mid Link one way",
-                            "url": "https://youtu.be/uCy0RGbwYRg",
-                            "description": "Mid Link one way from Mid Bottom",
-                            "tags": ["defense", "cage"]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Sage",
-            "id": 5,
-            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png",
-            "thumbnails": [
-                {
-                    "id": "barrier orb",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/barrier-orb-black.png"
-                },
-                {
-                    "id": "slow orb",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/slow-orb-black.png"
-                },
-                {
-                    "id": "ult",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png"
-                },
-                {
-                    "id": "attack",
-                    "url": ""
-                },
-                {
-                    "id": "defense",
-                    "url": ""
-                }
-            ],
-            "subTopics": [
-                {
-                    "id": 501,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
-                    "videos": [
-                        {
-                            "id": 50101,
-                            "title": "A Short",
-                            "url": "https://youtu.be/5a4ALp50x4Y",
-                            "description": "A Short",
-                            "tags": ["attack", "barrier orb", "slow orb"]
-                        },
-                        {
-                            "id": 50102,
-                            "title": "A Bath",
-                            "url": "https://youtu.be/PsJHAI913KI",
-                            "description": "A Bath",
-                            "tags": ["attack", "barrier orb"]
-                        },
-                        {
-                            "id": 50103,
-                            "title": "A Site",
-                            "url": "https://youtu.be/nzW79S0Youk",
-                            "description": "A Site",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50104,
-                            "title": "A Site #2",
-                            "url": "https://youtu.be/RmNjQMW3DbM",
-                            "description": "A Site",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50105,
-                            "title": "A Short",
-                            "url": "https://youtu.be/zKMGl9lnZvU",
-                            "description": "A Short",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50106,
-                            "title": "A Short #2",
-                            "url": "https://youtu.be/2Goqajy6UEQ",
-                            "description": "A Short",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50107,
-                            "title": "Hookah",
-                            "url": "https://youtu.be/0iFGHS9zuy8",
-                            "description": "Hookah",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50108,
-                            "title": "B Long",
-                            "url": "https://youtu.be/tlqEkW69Urk",
-                            "description": "B Long",
-                            "tags": ["defense", "barrier orb"]
-                        }
-                    ]
-                },
-                {
-                    "id": 502,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
-                    "videos": [
-                        {
-                            "id": 50201,
-                            "title": "A Long",
-                            "url": "https://youtu.be/6sp0yOem00c",
-                            "description": "A Long",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50202,
-                            "title": "B Site",
-                            "url": "https://youtu.be/-d0s7Prl19g",
-                            "description": "A Long",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50203,
-                            "title": "C Site",
-                            "url": "https://youtu.be/PCuYecohbIA",
-                            "description": "C Site",
-                            "tags": ["defense", "barrier orb"]
-                        }
-                    ]
-                },
-                {
-                    "id": 503,
-                    "title": "Split",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
-                    "videos": [
-                        {
-                            "id": 50301,
-                            "title": "Mid",
-                            "url": "https://youtu.be/EEF716hjkco",
-                            "description": "Mid",
-                            "tags": ["defense", "barrier orb"]
-                        },
-                        {
-                            "id": 50302,
-                            "title": "A",
-                            "url": "https://youtu.be/JNX_JftoYHk",
-                            "description": "A",
-                            "tags": ["defense", "barrier orb"]
-                        }
-                    ]
-                }
             ]
         }
     ]
