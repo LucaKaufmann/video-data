@@ -45,7 +45,7 @@
                     "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
                     "videos": [
                         {
-                            "id": 10101,
+                            "id": 1,
                             "title": "A Hookah",
                             "url": "https://youtu.be/aBjg5qmRf9w",
                             "description": "A Hookah",
@@ -53,7 +53,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10102,
+                            "id": 2,
                             "title": "B Plant #1",
                             "url": "https://youtu.be/CWhC3azod00",
                             "description": "B Plant",
@@ -61,7 +61,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10103,
+                            "id": 3,
                             "title": "B Plant #2",
                             "url": "https://youtu.be/tFXbyhF3_io",
                             "description": "B Plant",
@@ -69,7 +69,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10104,
+                            "id": 4,
                             "title": "B Plant #3",
                             "url": "https://youtu.be/fXRZmC76g2I",
                             "description": "B Plant",
@@ -77,7 +77,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10105,
+                            "id": 5,
                             "title": "A Bath U-Hall",
                             "url": "https://youtu.be/pkU2R0l-Hcc",
                             "description": "U Hall",
@@ -85,7 +85,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10106,
+                            "id": 6,
                             "title": "A Short U-Hall",
                             "url": "https://youtu.be/tFJaD1I1eW8",
                             "description": "U Hall",
@@ -93,7 +93,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10107,
+                            "id": 7,
                             "title": "A Point",
                             "url": "https://youtu.be/EAini8DPBtA",
                             "description": "U Point",
@@ -101,7 +101,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10108,
+                            "id": 8,
                             "title": "A Heaven",
                             "url": "https://youtu.be/4E6v9yQiogY",
                             "description": "A Heaven",
@@ -109,7 +109,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10109,
+                            "id": 9,
                             "title": "A Cubby",
                             "url": "https://youtu.be/NcskICelqOw",
                             "description": "A Cubby",
@@ -119,13 +119,13 @@
                     ]
                 },
                 {
-                    "id": 102,
+                    "id": 2,
                     "title": "Haven",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
                     "videos": [
                         {
-                            "id": 10201,
+                            "id": 1,
                             "title": "A Plant",
                             "url": "https://youtu.be/xmuTl6SJpII",
                             "description": "A Plant",
@@ -133,7 +133,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10202,
+                            "id": 2,
                             "title": "A Plant #2",
                             "url": "https://youtu.be/723aJK0z6L8",
                             "description": "A Plant",
@@ -141,7 +141,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10203,
+                            "id": 3,
                             "title": "A Plant A long",
                             "url": "https://youtu.be/7NFV5QGVvVM",
                             "description": "A Plant",
@@ -149,7 +149,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10204,
+                            "id": 4,
                             "title": "B Plant",
                             "url": "https://youtu.be/YX3yHTvuy6A",
                             "description": "B Plant",
@@ -157,7 +157,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10205,
+                            "id": 5,
                             "title": "B Plant #2",
                             "url": "https://youtu.be/wmzd6tRQ1Qg",
                             "description": "B Plant #2",
@@ -165,7 +165,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10206,
+                            "id": 6,
                             "title": "B Back",
                             "url": "https://youtu.be/VzdYs9VauaY",
                             "description": "B Back",
@@ -173,7 +173,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10207,
+                            "id": 7,
                             "title": "B Back #2",
                             "url": "https://youtu.be/lnKF2oUvB7c",
                             "description": "B Back",
@@ -181,7 +181,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10208,
+                            "id": 8,
                             "title": "B Boxes left",
                             "url": "https://youtu.be/7EeQx_ZdZzE",
                             "description": "B Boxes left",
@@ -189,7 +189,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10209,
+                            "id": 9,
                             "title": "B Boxes right",
                             "url": "https://youtu.be/edrIL7xLveA",
                             "description": "B Boxes right",
@@ -197,7 +197,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10210,
+                            "id": 10,
                             "title": "Garage",
                             "url": "https://youtu.be/_FHNLzGV0v0",
                             "description": "Garage",
@@ -205,7 +205,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10211,
+                            "id": 11,
                             "title": "C Back",
                             "url": "https://youtu.be/4UIHYnl0SL0",
                             "description": "C Back",
@@ -213,7 +213,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10212,
+                            "id": 12,
                             "title": "C Back #2",
                             "url": "https://youtu.be/yYHZIPdaYXI",
                             "description": "C Back #2",
@@ -221,7 +221,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10213,
+                            "id": 13,
                             "title": "C Point",
                             "url": "https://youtu.be/mHvsndQdqpU",
                             "description": "C Point",
@@ -231,13 +231,13 @@
                     ]
                 },
                 {
-                    "id": 103,
+                    "id": 3,
                     "title": "Split",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Sky Smoke", "Incendiary", "Stim Beacon", "Ult"],
                     "videos": [
                         {
-                            "id": 10301,
+                            "id": 1,
                             "title": "A Ramp",
                             "url": "https://youtu.be/9OEizGvQvho",
                             "description": "A Ramp",
@@ -245,7 +245,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10302,
+                            "id": 2,
                             "title": "A Rafters",
                             "url": "https://youtu.be/De464s9tu2I",
                             "description": "A Rafters",
@@ -253,7 +253,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10303,
+                            "id": 3,
                             "title": "A Heaven",
                             "url": "https://youtu.be/kVjJUeYlABo",
                             "description": "A Heaven",
@@ -261,7 +261,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10304,
+                            "id": 4,
                             "title": "A Ropes",
                             "url": "https://youtu.be/z3pKTDx5f_o",
                             "description": "A Ropes",
@@ -269,7 +269,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10305,
+                            "id": 5,
                             "title": "A Plant",
                             "url": "https://youtu.be/iniRoewXqBI",
                             "description": "A Plant",
@@ -277,7 +277,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10306,
+                            "id": 6,
                             "title": "B Plant",
                             "url": "https://youtu.be/lh1o_jYv6Ys",
                             "description": "B Plant",
@@ -285,7 +285,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10307,
+                            "id": 7,
                             "title": "B Heaven",
                             "url": "https://youtu.be/Y_N8tGxnju8",
                             "description": "B Heaven",
@@ -293,7 +293,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10308,
+                            "id": 8,
                             "title": "B Corner",
                             "url": "https://youtu.be/KtWCoFYA8Zk",
                             "description": "B Corner",
@@ -301,7 +301,7 @@
                             "author": "Hotky"
                         },
                         {
-                            "id": 10309,
+                            "id": 9,
                             "title": "B Corner #2",
                             "url": "https://youtu.be/c4xB_vE1Qyg",
                             "description": "B Corner #2",
@@ -344,195 +344,218 @@
             ],
             "subTopics": [
                 {
-                    "id": 401,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40101,
-                            "title": "Hookah",
-                            "url": "https://youtu.be/zvzCJQRndRM",
-                            "description": "A Hookah",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40102,
-                            "title": "Hookah #2",
-                            "url": "https://youtu.be/4cnsogU1DHk",
-                            "description": "A Hookah",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40103,
-                            "title": "B Site",
-                            "url": "https://youtu.be/DbKwijFBWFY",
-                            "description": "B Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40104,
-                            "title": "A Site",
-                            "url": "https://youtu.be/agWYd64EsB4",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40105,
-                            "title": "A Link",
-                            "url": "https://youtu.be/Ur5FKRjwegY",
-                            "description": "A Link",
-                            "tags": ["defense", "attack", "spycam"]
-                        }
-                    ]
-                },
-                {
-                    "id": 402,
-                    "title": "Haven",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40201,
-                            "title": "A Site",
-                            "url": "https://youtu.be/QctRGWwJq0Q",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40202,
-                            "title": "A Site #2",
-                            "url": "https://youtu.be/TBsvT-rVH0E",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40203,
-                            "title": "A Site #3",
-                            "url": "https://youtu.be/T7AQuMbWM_A",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40204,
-                            "title": "B Lobby and  A Long",
-                            "url": "https://youtu.be/BzZaHW0eE8s",
-                            "description": "A Site",
-                            "tags": ["attack", "spycam"]
-                        },
-                        {
-                            "id": 40205,
-                            "title": "C Lobby",
-                            "url": "https://youtu.be/ZB2H1CbYVy0",
-                            "description": "C Lobby",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40206,
-                            "title": "C Site",
-                            "url": "https://youtu.be/EmOM5LMzW1Q",
-                            "description": "C Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40207,
-                            "title": "Garage",
-                            "url": "https://youtu.be/99mSBnbjIzA",
-                            "description": "Garage",
-                            "tags": ["defense", "attack", "spycam"]
-                        }
-                    ]
-                },
-                {
-                    "id": 403,
-                    "title": "Split",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
-                    "videos": [
-                        {
-                            "id": 40301,
-                            "title": "A Site",
-                            "url": "https://youtu.be/gd4iSLA69S4",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40302,
-                            "title": "A Site #2",
-                            "url": "https://youtu.be/rG3MCXKSplU",
-                            "description": "A Site",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40303,
-                            "title": "A one way",
-                            "url": "https://youtu.be/FJifpoCxQNY",
-                            "description": "A one way cage",
-                            "tags": ["defense", "attack", "cyber cage"]
-                        },
-                        {
-                            "id": 40304,
-                            "title": "A one way #2",
-                            "url": "https://youtu.be/ckwiZrHMfCo",
-                            "description": "A one way cage",
-                            "tags": ["defense", "cyber cage"]
-                        },
-                        {
-                            "id": 40305,
-                            "title": "Mid Lobby",
-                            "url": "https://youtu.be/CmN_ZN_7W4Q",
-                            "description": "Mid Lobby cam",
-                            "tags": ["defense", "spycam"]
-                        },
-                        {
-                            "id": 40306,
-                            "title": "Mid Lobby #2",
-                            "url": "https://youtu.be/dWxKzFiUNPg",
-                            "description": "Mid Lobby cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40307,
-                            "title": "Defender Spawn",
-                            "url": "https://youtu.be/oTUzepmy-Rk",
-                            "description": "Defender Spawn cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40308,
-                            "title": "B Site",
-                            "url": "https://youtu.be/fIUTVzHsxRs",
-                            "description": "B Site cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40309,
-                            "title": "B Site #2",
-                            "url": "https://youtu.be/SoeJ20ZOjtI",
-                            "description": "B Site cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        },
-                        {
-                            "id": 40310,
-                            "title": "B Lobby",
-                            "url": "https://youtu.be/gqLv_mjZSts",
-                            "description": "B Lobby cam",
-                            "tags": ["defense", "attack", "spycam"]
-                        }
-                    ]
-                },
-                {
-                    "id": 404,
+                    "id": 1,
                     "title": "Ascent",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
                     "videos": [
                         {
                             "id": 40301,
-                            "title": "Mid Link one way",
+                            "title": "Mid Link one-way",
                             "url": "https://youtu.be/uCy0RGbwYRg",
-                            "description": "Mid Link one way from Mid Bottom",
-                            "tags": ["defense", "cage"]
+                            "description": "Mid Link one-way from Mid Bottom",
+                            "tags": ["defense", "cage"],
+                            "author": "Terrible Stomper"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "Hookah",
+                            "url": "https://youtu.be/zvzCJQRndRM",
+                            "description": "A Hookah",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Hookah #2",
+                            "url": "https://youtu.be/4cnsogU1DHk",
+                            "description": "A Hookah",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 3,
+                            "title": "B Site",
+                            "url": "https://youtu.be/DbKwijFBWFY",
+                            "description": "B Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 4,
+                            "title": "A Site",
+                            "url": "https://youtu.be/agWYd64EsB4",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 5,
+                            "title": "A Link",
+                            "url": "https://youtu.be/Ur5FKRjwegY",
+                            "description": "A Link",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "A Site",
+                            "url": "https://youtu.be/QctRGWwJq0Q",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 2,
+                            "title": "A Site #2",
+                            "url": "https://youtu.be/TBsvT-rVH0E",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 3,
+                            "title": "A Site #3",
+                            "url": "https://youtu.be/T7AQuMbWM_A",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 4,
+                            "title": "B Lobby and  A Long",
+                            "url": "https://youtu.be/BzZaHW0eE8s",
+                            "description": "A Site",
+                            "tags": ["attack", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 5,
+                            "title": "C Lobby",
+                            "url": "https://youtu.be/ZB2H1CbYVy0",
+                            "description": "C Lobby",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 6,
+                            "title": "C Site",
+                            "url": "https://youtu.be/EmOM5LMzW1Q",
+                            "description": "C Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Garage",
+                            "url": "https://youtu.be/99mSBnbjIzA",
+                            "description": "Garage",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Split",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Cyber Cage", "Trapwire", "Spycam", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "A Site",
+                            "url": "https://youtu.be/gd4iSLA69S4",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 2,
+                            "title": "A Site #2",
+                            "url": "https://youtu.be/rG3MCXKSplU",
+                            "description": "A Site",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 3,
+                            "title": "A one-way",
+                            "url": "https://youtu.be/FJifpoCxQNY",
+                            "description": "A one-way cage",
+                            "tags": ["defense", "attack", "cyber cage"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 4,
+                            "title": "A one-way #2",
+                            "url": "https://youtu.be/ckwiZrHMfCo",
+                            "description": "A one-way cage",
+                            "tags": ["defense", "cyber cage"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Mid Lobby",
+                            "url": "https://youtu.be/CmN_ZN_7W4Q",
+                            "description": "Mid Lobby cam",
+                            "tags": ["defense", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Mid Lobby #2",
+                            "url": "https://youtu.be/dWxKzFiUNPg",
+                            "description": "Mid Lobby cam",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Defender Spawn",
+                            "url": "https://youtu.be/oTUzepmy-Rk",
+                            "description": "Defender Spawn cam",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 8,
+                            "title": "B Site",
+                            "url": "https://youtu.be/fIUTVzHsxRs",
+                            "description": "B Site cam",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 9,
+                            "title": "B Site #2",
+                            "url": "https://youtu.be/SoeJ20ZOjtI",
+                            "description": "B Site cam",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 10,
+                            "title": "B Lobby",
+                            "url": "https://youtu.be/gqLv_mjZSts",
+                            "description": "B Lobby cam",
+                            "tags": ["defense", "attack", "spycam"],
+                            "author": "Hotky"
                         }
                     ]
                 }
@@ -540,7 +563,7 @@
         },
         {
             "title": "Sage",
-            "id": 5,
+            "id": 3,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png",
             "thumbnails": [
                 {
@@ -566,117 +589,130 @@
             ],
             "subTopics": [
                 {
-                    "id": 501,
+                    "id": 1,
                     "title": "Bind",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
                     "videos": [
                         {
-                            "id": 50101,
+                            "id": 1,
                             "title": "A Short",
                             "url": "https://youtu.be/5a4ALp50x4Y",
                             "description": "A Short",
-                            "tags": ["attack", "barrier orb", "slow orb"]
+                            "tags": ["attack", "barrier orb", "slow orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50102,
+                            "id": 2,
                             "title": "A Bath",
                             "url": "https://youtu.be/PsJHAI913KI",
                             "description": "A Bath",
-                            "tags": ["attack", "barrier orb"]
+                            "tags": ["attack", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50103,
+                            "id": 3,
                             "title": "A Site",
                             "url": "https://youtu.be/nzW79S0Youk",
                             "description": "A Site",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50104,
+                            "id": 4,
                             "title": "A Site #2",
                             "url": "https://youtu.be/RmNjQMW3DbM",
                             "description": "A Site",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50105,
+                            "id": 5,
                             "title": "A Short",
                             "url": "https://youtu.be/zKMGl9lnZvU",
                             "description": "A Short",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50106,
+                            "id": 6,
                             "title": "A Short #2",
                             "url": "https://youtu.be/2Goqajy6UEQ",
                             "description": "A Short",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50107,
+                            "id": 7,
                             "title": "Hookah",
                             "url": "https://youtu.be/0iFGHS9zuy8",
                             "description": "Hookah",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50108,
+                            "id": 8,
                             "title": "B Long",
                             "url": "https://youtu.be/tlqEkW69Urk",
                             "description": "B Long",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         }
                     ]
                 },
                 {
-                    "id": 502,
+                    "id": 2,
                     "title": "Haven",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
                     "videos": [
                         {
-                            "id": 50201,
+                            "id": 1,
                             "title": "A Long",
                             "url": "https://youtu.be/6sp0yOem00c",
                             "description": "A Long",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50202,
+                            "id": 2,
                             "title": "B Site",
                             "url": "https://youtu.be/-d0s7Prl19g",
                             "description": "A Long",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50203,
+                            "id": 3,
                             "title": "C Site",
                             "url": "https://youtu.be/PCuYecohbIA",
                             "description": "C Site",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         }
                     ]
                 },
                 {
-                    "id": 503,
+                    "id": 3,
                     "title": "Split",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Barrier Orb", "Slow Orb", "Ult"],
                     "videos": [
                         {
-                            "id": 50301,
+                            "id": 1,
                             "title": "Mid",
                             "url": "https://youtu.be/EEF716hjkco",
                             "description": "Mid",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 50302,
+                            "id": 2,
                             "title": "A",
                             "url": "https://youtu.be/JNX_JftoYHk",
                             "description": "A",
-                            "tags": ["defense", "barrier orb"]
+                            "tags": ["defense", "barrier orb"],
+                            "author": "Hotky"
                         }
                     ]
                 }
@@ -684,7 +720,7 @@
         },
         {
             "title": "Sova",
-            "id": 2,
+            "id": 4,
             "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
             "thumbnails": [
                 {
@@ -710,194 +746,218 @@
             ],
             "subTopics": [
                 {
-                    "id": 201,
+                    "id": 2,
                     "title": "Bind",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
                     "videos": [
                         {
-                            "id": 20101,
+                            "id": 1,
                             "title": "A",
                             "url": "https://youtu.be/VYGjk1FwxrY",
                             "description": "Recon arrow A",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20102,
+                            "id": 2,
                             "title": "A #2",
                             "url": "https://youtu.be/EVYyH2q1L5A",
                             "description": "Recon arrow A Back",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20103,
+                            "id": 3,
                             "title": "A Front",
                             "url": "https://youtu.be/isoobs5b390",
                             "description": "Recon arrow A Front",
-                            "tags": ["aattack", "recon arrow"]
+                            "tags": ["aattack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20104,
+                            "id": 4,
                             "title": "A Back",
                             "url": "https://youtu.be/OxDY9lP4TaI",
                             "description": "Recon arrow A Back",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20105,
+                            "id": 5,
                             "title": "B Elbow",
                             "url": "https://youtu.be/_CyxTUapYNA",
                             "description": "Recon arrow B Elbow",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20106,
+                            "id": 6,
                             "title": "B Hookah",
                             "url": "https://youtu.be/7nr6rJZegU4",
                             "description": "Recon arrow Hookah Back",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20107,
+                            "id": 7,
                             "title": "B Hookah #2",
                             "url": "https://youtu.be/N5Gehh0_VXU",
                             "description": "Recon arrow Hookah",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20108,
+                            "id": 8,
                             "title": "Defense Hookah",
                             "url": "https://youtu.be/tzUr83mwWpQ",
                             "description": "Recon arrow Hookah",
-                            "tags": ["defense", "recon arrow"]
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20109,
+                            "id": 9,
                             "title": "B Long",
                             "url": "https://youtu.be/9uWmx4bAJSg",
                             "description": "Recon arrow B Long",
-                            "tags": ["defense", "recon arrow"]
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
                         }
                     ]
                 },
                 {
-                    "id": 202,
+                    "id": 3,
                     "title": "Haven",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
                     "videos": [
                         {
-                            "id": 20201,
+                            "id": 1,
                             "title": "A Long",
                             "url": "https://youtu.be/kyR53mFSe-M",
                             "description": "Recon arrow A Long",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20202,
+                            "id": 2,
                             "title": "B",
                             "url": "https://youtu.be/2Xls4Z38i2M",
                             "description": "Recon arrow B Point",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20203,
+                            "id": 3,
                             "title": "C",
                             "url": "https://youtu.be/6mo-wm8S_Qw",
                             "description": "Recon arrow C Point",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20204,
+                            "id": 4,
                             "title": "A Attacker Spawn",
                             "url": "https://youtu.be/Crqa7dAvMi0",
                             "description": "Recon arrow Attacker Spawn A",
-                            "tags": ["defense", "recon arrow"]
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20205,
+                            "id": 5,
                             "title": "A from B",
                             "url": "https://youtu.be/rYJouw8Zm1o",
                             "description": "Recon arrow onto A from B",
-                            "tags": ["defense", "attack", "recon arrow"]
+                            "tags": ["defense", "attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20206,
+                            "id": 6,
                             "title": "B Plant",
                             "url": "https://youtu.be/1TMLccL2cG4",
                             "description": "Shock arrow on B Plant Spot",
-                            "tags": ["defense", "attack", "shock dart"]
+                            "tags": ["defense", "attack", "shock dart"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20207,
+                            "id": 7,
                             "title": "B #2",
                             "url": "https://youtu.be/8HhESiQVqRI",
                             "description": "B from Doorway",
-                            "tags": ["defense", "attack", "recon arrow"]
+                            "tags": ["defense", "attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20208,
+                            "id": 8,
                             "title": "C Plant",
                             "url": "https://youtu.be/skUTzFcYdzU",
                             "description": "C plant spot",
-                            "tags": ["defense", "attack", "shock dart"]
+                            "tags": ["defense", "attack", "shock dart"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20209,
+                            "id": 9,
                             "title": "C Long",
                             "url": "https://youtu.be/JTGj2bFM5Fs",
                             "description": "C Long for Defenders",
-                            "tags": ["defense", "recon arrow"]
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20210,
+                            "id": 10,
                             "title": "Garage",
                             "url": "https://youtu.be/2s650fgrhuE",
                             "description": "Recon arrow outside of Garage",
-                            "tags": ["defense", "recon arrow"]
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
                         }
                     ]
                 },
                 {
-                    "id": 203,
+                    "id": 4,
                     "title": "Split",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
                     "videos": [
                         {
-                            "id": 20301,
+                            "id": 1,
                             "title": "A Heaven",
                             "url": "https://youtu.be/CyLgfkukTAA",
                             "description": "Recon arrow on A Heaven",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20302,
+                            "id": 2,
                             "title": "A Point",
                             "url": "https://youtu.be/azNFtnx94-4",
                             "description": "Recon arrow on A Point",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20303,
+                            "id": 3,
                             "title": "B",
                             "url": "https://youtu.be/TeXopO7Wo2o",
                             "description": "Recon arrow on B",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20304,
+                            "id": 4,
                             "title": "B #2",
                             "url": "https://youtu.be/IyUaR9DJ_2Q",
                             "description": "Recon arrow on B from Heaven",
-                            "tags": ["attack", "recon arrow"]
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 20305,
+                            "id": 5,
                             "title": "A Attacker Spawn",
                             "url": "https://youtu.be/bFMPcFVV1lg",
                             "description": "Recon arrow on A Attacker Spawn",
-                            "tags": ["defense", "recon arrow"]
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
                         }
                     ]
                 }
@@ -905,7 +965,7 @@
         },
         {
             "title": "Viper",
-            "id": 1,
+            "id": 5,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/vipers-pit-black.png",
             "thumbnails": [
                 {
@@ -935,119 +995,141 @@
             ],
             "subTopics": [
                 {
-                    "id": 104,
+                    "id": 1,
                     "title": "Ascent",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
-                            "id": 10401,
+                            "id": 1,
                             "title": "A Main",
                             "url": "https://youtu.be/XPATeGMfxq8",
                             "description": "Smoke covering A Main Door",
-                            "tags": ["defense", "smoke"]
+                            "tags": ["defense", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10402,
+                            "id": 2,
                             "title": "B Main",
                             "url": "https://youtu.be/AyO80gAbgUc",
                             "description": "Smoke covering B Main Door",
-                            "tags": ["defense", "smoke"]
+                            "tags": ["defense", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10403,
+                            "id": 3,
                             "title": "A Link",
                             "url": "https://youtu.be/Fw-l4Wm3lpk",
                             "description": "Smoke covering A Link",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10404,
+                            "id": 4,
                             "title": "A Heaven",
                             "url": "https://youtu.be/Zjb32mUc1Ws",
                             "description": "Smoke covering A Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10405,
+                            "id": 5,
                             "title": "Mid Cubby to A Heaven",
                             "url": "https://youtu.be/kOY_sTfZcP4",
                             "description": "Smoke covering A Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10406,
+                            "id": 6,
                             "title": "B Main to B Site",
                             "url": "https://youtu.be/j_1HmUz-gyo",
                             "description": "Smoke covering B Site from B Main",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10407,
+                            "id": 7,
                             "title": "B Main to Mid Market",
                             "url": "https://youtu.be/MDY1KnYrM6w",
                             "description": "Smoke covering B Market from B Main",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10408,
+                            "id": 8,
                             "title": "Mid Link to Mid Cubby",
                             "url": "https://youtu.be/qrpVbgxAlBs",
                             "description": "Smoke covering Mid Link from Mid Cubby",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
                         },
                         {
-                            "id": 10409,
+                            "id": 9,
                             "title": "Mid Link to Mid Bottom",
                             "url": "https://youtu.be/Qatojp_f-l8",
                             "description": "Smoke covering Mid Link from Mid Bottom",
-                            "tags": ["attack", "smoke"]
-                        }  
+                            "tags": ["attack", "smoke"],
+                            "author": "Terrible Stomper"
+                        },  
+                        {
+                            "id": 10,
+                            "title": "A Site one-way",
+                            "url": "https://youtu.be/JelDpgPUYpc",
+                            "description": "A Site to A Tree one-way",
+                            "tags": ["defense", "smoke"],
+                            "author": "Terrible Stomper"
+                        } 
                     ]
                 },
                 {
-                    "id": 101,
+                    "id": 2,
                     "title": "Bind",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
-                            "id": 10101,
-                            "title": "A Short one way",
+                            "id": 1,
+                            "title": "A Short one-way",
                             "url": "https://youtu.be/CUfbsu49CWU",
-                            "description": "One way smoke on A Long",
-                            "tags": ["defense", "smoke"]
+                            "description": "one-way smoke on A Long",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10102,
-                            "title": "A Bath one way",
+                            "id": 2,
+                            "title": "A Bath one-way",
                             "url": "https://youtu.be/z83irbyWEdU",
-                            "description": "One way smoke on A bath",
-                            "tags": ["defense", "smoke"]
+                            "description": "one-way smoke on A bath",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10103,
+                            "id": 3,
                             "title": "A/B Wall",
                             "url": "https://youtu.be/GdBGswCnEPs",
                             "description": "Wall from A to B covering Hookah and B",
-                            "tags": ["defense", "wall"]
+                            "tags": ["defense", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10104,
+                            "id": 4,
                             "title": "B Wall",
                             "url": "https://youtu.be/_RWhSz2Ul0w",
                             "description": "Wall covering B",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10105,
+                            "id": 5,
                             "title": "B Ult",
                             "url": "https://youtu.be/ZBbiUe32VmM",
                             "description": "Ult spot in Hookah, covers parts of B for planting",
-                            "tags": ["attack", "ult"]
+                            "tags": ["attack", "ult"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10106,
+                            "id": 6,
                             "title": "B Spawn",
                             "url": "https://youtu.be/f5-MP94CdrE",
                             "description": "Smoke covering B Spawn",
@@ -1058,296 +1140,336 @@
                             "title": "B Point",
                             "url": "https://youtu.be/NE5OI6JKAAc",
                             "description": "Smoke covering B Point",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10108,
+                            "id": 8,
                             "title": "B Elbow",
                             "url": "https://youtu.be/b275US-Hk3k",
                             "description": "Smoke covering B Elbow",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10109,
+                            "id": 9,
                             "title": "A",
                             "url": "https://youtu.be/BOpSQHuDnmc",
                             "description": "A Wall from Mid",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10110,
+                            "id": 10,
                             "title": "A #2",
                             "url": "https://youtu.be/ppr1Q_H2cWE",
                             "description": "A Wall from Attacker Spawn",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10111,
+                            "id": 11,
                             "title": "A Point",
                             "url": "https://youtu.be/3CEYsM2VwZY",
                             "description": "A Point smoke from Mid",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10112,
+                            "id": 12,
                             "title": "A Point #2",
                             "url": "https://youtu.be/ZFxQIIjniDc",
                             "description": "A Point smoke from Attacker Spawn",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10113,
+                            "id": 13,
                             "title": "A Point",
                             "url": "https://youtu.be/_7d0E_4woAg",
                             "description": "A Point Snake Bite behind Boxes",
-                            "tags": ["attack", "bite"]
+                            "tags": ["attack", "bite"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10114,
+                            "id": 14,
                             "title": "A Heaven #1",
                             "url": "https://youtu.be/3hp1FbPJ9QM",
                             "description": "A Heaven smoke from Attacker Spawn",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10115,
+                            "id": 15,
                             "title": "A Heaven #2",
                             "url": "https://youtu.be/T50PwVWYous",
                             "description": "A Heaven smoke from Bath",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10116,
+                            "id": 16,
                             "title": "A Heaven #3",
                             "url": "https://youtu.be/dkZZ4jDvUf4",
                             "description": "A Heaven smoke from Bath",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10117,
+                            "id": 17,
                             "title": "A execute from Mid",
                             "url": "https://youtu.be/NAHGQMpbjbQ",
                             "description": "A Wall and smoke from Mid",
-                            "tags": ["attack", "smoke", "wall"]
+                            "tags": ["attack", "smoke", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10118,
+                            "id": 18,
                             "title": "A Bath",
                             "url": "https://youtu.be/NiXVgV0aIWg",
                             "description": "A Snake Bite on the Boxes to the right side of the Bath exit",
-                            "tags": ["attack", "bite"]
+                            "tags": ["attack", "bite"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10119,
+                            "id": 19,
                             "title": "A Bath",
                             "url": "https://youtu.be/j8WDB0QXt6g",
                             "description": "A Ult from Bath",
-                            "tags": ["attack", "ult"]
+                            "tags": ["attack", "ult"],
+                            "author": "Hotky"
                         }
                     ]
                 },
                 {
-                    "id": 102,
+                    "id": 3,
                     "title": "Haven",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
-                            "id": 10201,
+                            "id": 1,
                             "title": "A Spawn",
                             "url": "https://youtu.be/H0DmVDzUSdM",
                             "description": "Smoke into A covering Spawn Entrance",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10202,
+                            "id": 2,
                             "title": "A Long",
                             "url": "https://youtu.be/0gk_Vfw_ueM",
                             "description": "Smoke covering A Long",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10203,
+                            "id": 3,
                             "title": "A Heaven",
                             "url": "https://youtu.be/2L94hnUNv78",
                             "description": "Smoke covering A Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10204,
+                            "id": 4,
                             "title": "A Heaven #2",
                             "url": "https://youtu.be/U6qVOAfs7_M",
                             "description": "Smoke covering A Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10205,
+                            "id": 5,
                             "title": "A",
                             "url": "https://youtu.be/Ti6r4uZQUjU",
                             "description": "Wall splitting A",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10206,
+                            "id": 6,
                             "title": "B Mid",
                             "url": "https://youtu.be/w_6UFE0ec9Q",
                             "description": "B Mid smoke",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10207,
+                            "id": 7,
                             "title": "C Point",
                             "url": "https://youtu.be/-XAjoCj_kN0",
                             "description": "C Point smoke",
-                            "tags": ["attack", "bite"]
+                            "tags": ["attack", "bite"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10208,
+                            "id": 8,
                             "title": "B Window",
                             "url": "https://youtu.be/drF6DZ0iqAY",
                             "description": "B Window Snake Bite and smoke",
-                            "tags": ["defense", "smoke", "bite"]
+                            "tags": ["defense", "smoke", "bite"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10209,
-                            "title": "Garage one way",
+                            "id": 9,
+                            "title": "Garage one-way",
                             "url": "https://youtu.be/3CJEHdg7bwg",
-                            "description": "Garage one way smoke",
-                            "tags": ["defense", "smoke"]
+                            "description": "Garage one-way smoke",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10210,
-                            "title": "B one way",
+                            "id": 10,
+                            "title": "B one-way",
                             "url": "https://youtu.be/4bnsxl1RHf8",
-                            "description": "One way smoke on B",
-                            "tags": ["attack", "defense", "smoke"]
+                            "description": "one-way smoke on B",
+                            "tags": ["attack", "defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10211,
+                            "id": 11,
                             "title": "A Sewer",
                             "url": "https://youtu.be/0GPFpAuRaNA",
-                            "description": "Sewer one way",
-                            "tags": ["defense", "smoke"]
+                            "description": "Sewer one-way",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10212,
+                            "id": 12,
                             "title": "A Main",
                             "url": "https://youtu.be/rZQLADizD1g",
-                            "description": "A Main one way smoke",
-                            "tags": ["defense", "smoke"]
+                            "description": "A Main one-way smoke",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10213,
+                            "id": 13,
                             "title": "A B Wall",
                             "url": "https://youtu.be/411gfmi9ScE",
                             "description": "Wall covering A and B",
-                            "tags": ["defense", "wall"]
+                            "tags": ["defense", "wall"],
+                            "author": "Hotky"
                         }
                     ]
                 },
                 {
-                    "id": 103,
+                    "id": 4,
                     "title": "Split",
                     "filters": ["All", "Attack", "Defense"],
                     "subfilters": ["All", "Smoke", "Wall", "Bite", "Ult"],
                     "videos": [
                         {
-                            "id": 10301,
+                            "id": 103101,
                             "title": "B Heaven",
                             "url": "https://youtu.be/cZD22M2YbFo",
                             "description": "Smoke covering B Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10302,
+                            "id": 2,
                             "title": "B execute",
                             "url": "https://youtu.be/ujuhZF1Prik",
                             "description": "Wall, smoke and Snake Bite for B",
-                            "tags": ["attack", "smoke", "wall", "bite"]
+                            "tags": ["attack", "smoke", "wall", "bite"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10303,
+                            "id": 3,
                             "title": "B Wall",
                             "url": "https://youtu.be/6rhNg7LB3Eg",
                             "description": "Wall across B",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10304,
+                            "id": 4,
                             "title": "B Heaven",
                             "url": "https://youtu.be/6UZsEJGEBYk",
                             "description": "Smoke covering B Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10305,
+                            "id": 5,
                             "title": "B Rafters",
                             "url": "https://youtu.be/YvIv2OiUTng",
                             "description": "Wall covering B Rafters",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10306,
+                            "id": 6,
                             "title": "A Heaven",
                             "url": "https://youtu.be/fh1XjcuNnYc",
                             "description": "Smoke covering A Heaven",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10307,
+                            "id": 7,
                             "title": "A Wall",
                             "url": "https://youtu.be/6DAQ3Jimj7M",
                             "description": "Wall covering A Ramp and Heaven",
-                            "tags": ["attack", "wall"]
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10308,
+                            "id": 8,
                             "title": "A",
                             "url": "https://youtu.be/V8EAlpzKPFs",
                             "description": "Snake bite for A Rafters and Corner",
-                            "tags": ["attack", "bite"]
+                            "tags": ["attack", "bite"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10309,
+                            "id": 9,
                             "title": "Mid smoke",
                             "url": "https://youtu.be/90xyfQkQ6Gs",
                             "description": "Smoke covering Mid",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10310,
-                            "title": "Mid one way",
+                            "id": 10,
+                            "title": "Mid one-way",
                             "url": "https://youtu.be/6PtIScwYRbY",
                             "description": "Smoke covering Mid",
-                            "tags": ["defense", "smoke"]
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10311,
+                            "id": 11,
                             "title": "Mid A wall",
                             "url": "https://youtu.be/r31p2z8a1Oc",
                             "description": "Smoke covering Mid",
-                            "tags": ["defense", "wall"]
+                            "tags": ["defense", "wall"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10312,
-                            "title": "Mid Stairs one way",
+                            "id": 12,
+                            "title": "Mid Stairs one-way",
                             "url": "https://youtu.be/GuGVpW18Q_Y",
-                            "description": "One way smoke on Mid Stairs",
-                            "tags": ["defense", "smoke"]
+                            "description": "one-way smoke on Mid Stairs",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10313,
-                            "title": "B Ramp one way",
+                            "id": 13,
+                            "title": "B Ramp one-way",
                             "url": "https://youtu.be/UigKh_zZJoo",
-                            "description": "One way smoke on B Ramp",
-                            "tags": ["defense", "smoke"]
+                            "description": "one-way smoke on B Ramp",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         },
                         {
-                            "id": 10314,
-                            "title": "B one way",
+                            "id": 14,
+                            "title": "B one-way",
                             "url": "https://youtu.be/uduoghitmAo",
-                            "description": "One way smoke on B Main",
-                            "tags": ["defense", "smoke"]
+                            "description": "one-way smoke on B Main",
+                            "tags": ["defense", "smoke"],
+                            "author": "Hotky"
                         }
                     ]
                 }
