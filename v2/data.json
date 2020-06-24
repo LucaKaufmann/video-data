@@ -1133,7 +1133,8 @@
                             "title": "B Spawn",
                             "url": "https://youtu.be/f5-MP94CdrE",
                             "description": "Smoke covering B Spawn",
-                            "tags": ["attack", "smoke"]
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
                         },
                         {
                             "id": 10107,
@@ -1473,7 +1474,6 @@
                         }
                     ]
                 }
-
             ]
         }
     ]
