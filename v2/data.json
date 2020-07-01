@@ -522,8 +522,65 @@
             ]
         },
         {
-            "title": "Sage",
+            "title": "Jett",
             "id": 3,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blade-storm-black.png",
+            "thumbnails": [
+                {
+                    "id": "cloud burst",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/cloudburst-black.png"
+                },
+                {
+                    "id": "tailwind",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/tailwind-black.png"
+                },
+                {
+                    "id": "updraft",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/updraft-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blade-storm-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 1,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "B to Defender Spawn",
+                            "url": "https://youtu.be/V1FhkAZjf00",
+                            "description": "Ult to Defender Spawn",
+                            "tags": ["attack", "ult", "updraft"],
+                            "author": "Terrible Stomper"
+                        },
+                        {
+                            "id": 2,
+                            "title": "B Hall One-Way",
+                            "url": "https://youtu.be/Veawm_lPpo0",
+                            "description": "B Hall One-Way",
+                            "tags": ["attack", "cloudburst"],
+                            "author": "Terrible Stomper"
+                        },
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sage",
+            "id": 4,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png",
             "thumbnails": [
                 {
@@ -674,63 +731,6 @@
                             "tags": ["defense", "barrier orb"],
                             "author": "Hotky"
                         }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Jett",
-            "id": 4,
-            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blade-storm-black.png",
-            "thumbnails": [
-                {
-                    "id": "cloud burst",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/cloudburst-black.png"
-                },
-                {
-                    "id": "tailwind",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/tailwind-black.png"
-                },
-                {
-                    "id": "updraft",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/updraft-black.png"
-                },
-                {
-                    "id": "ult",
-                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blade-storm-black.png"
-                },
-                {
-                    "id": "attack",
-                    "url": ""
-                },
-                {
-                    "id": "defense",
-                    "url": ""
-                }
-            ],
-            "subTopics": [
-                {
-                    "id": 1,
-                    "title": "Bind",
-                    "filters": ["All", "Attack", "Defense"],
-                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
-                    "videos": [
-                        {
-                            "id": 1,
-                            "title": "B to Defender Spawn",
-                            "url": "https://youtu.be/V1FhkAZjf00",
-                            "description": "Ult to Defender Spawn",
-                            "tags": ["attack", "ult", "updraft"],
-                            "author": "Terrible Stomper"
-                        },
-                        {
-                            "id": 2,
-                            "title": "B Hall One-Way",
-                            "url": "https://youtu.be/Veawm_lPpo0",
-                            "description": "B Hall One-Way",
-                            "tags": ["attack", "cloudburst"],
-                            "author": "Terrible Stomper"
-                        },
                     ]
                 }
             ]
