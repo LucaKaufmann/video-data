@@ -368,15 +368,7 @@
                         {
                             "id": 1,
                             "title": "Hookah",
-                            "url": "https://youtu.be/zvzCJQRndRM",
-                            "description": "A Hookah",
-                            "tags": ["defense", "spycam"],
-                            "author": "Hotky"
-                        },
-                        {
-                            "id": 2,
-                            "title": "Hookah #2",
-                            "url": "https://youtu.be/4cnsogU1DHk",
+                            "url": "https://youtu.be/jdRzc8PZRbo",
                             "description": "A Hookah",
                             "tags": ["defense", "spycam"],
                             "author": "Hotky"
@@ -507,38 +499,6 @@
                             "url": "https://youtu.be/ckwiZrHMfCo",
                             "description": "A one-way cage",
                             "tags": ["defense", "cyber cage"],
-                            "author": "Hotky"
-                        },
-                        {
-                            "id": 5,
-                            "title": "Mid Lobby",
-                            "url": "https://youtu.be/CmN_ZN_7W4Q",
-                            "description": "Mid Lobby cam",
-                            "tags": ["defense", "spycam"],
-                            "author": "Hotky"
-                        },
-                        {
-                            "id": 6,
-                            "title": "Mid Lobby #2",
-                            "url": "https://youtu.be/dWxKzFiUNPg",
-                            "description": "Mid Lobby cam",
-                            "tags": ["defense", "attack", "spycam"],
-                            "author": "Hotky"
-                        },
-                        {
-                            "id": 7,
-                            "title": "Defender Spawn",
-                            "url": "https://youtu.be/oTUzepmy-Rk",
-                            "description": "Defender Spawn cam",
-                            "tags": ["defense", "attack", "spycam"],
-                            "author": "Hotky"
-                        },
-                        {
-                            "id": 8,
-                            "title": "B Site",
-                            "url": "https://youtu.be/fIUTVzHsxRs",
-                            "description": "B Site cam",
-                            "tags": ["defense", "attack", "spycam"],
                             "author": "Hotky"
                         },
                         {
@@ -714,6 +674,63 @@
                             "tags": ["defense", "barrier orb"],
                             "author": "Hotky"
                         }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Jett",
+            "id": 4,
+            "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
+            "thumbnails": [
+                {
+                    "id": "cloud burst",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/cloudburst-black.png"
+                },
+                {
+                    "id": "tailwind",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/tailwind-black.png"
+                },
+                {
+                    "id": "updraft",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/updraft-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blade-storm-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 1,
+                    "title": "Bind",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "B to Defender Spawn",
+                            "url": "https://youtu.be/V1FhkAZjf00",
+                            "description": "Ult to Defender Spawn",
+                            "tags": ["attack", "ult", "updraft"],
+                            "author": "Terrible Stomper"
+                        },
+                        {
+                            "id": 2,
+                            "title": "B Hall One-Way",
+                            "url": "https://youtu.be/Veawm_lPpo0",
+                            "description": "B Hall One-Way",
+                            "tags": ["attack", "cloudburst"],
+                            "author": "Terrible Stomper"
+                        },
                     ]
                 }
             ]
@@ -910,6 +927,14 @@
                             "description": "Recon arrow outside of Garage",
                             "tags": ["defense", "recon arrow"],
                             "author": "Hotky"
+                        },
+                        {
+                            "id": 11,
+                            "title": "B Site Entrance",
+                            "url": "https://youtu.be/JdCtD11y5K8",
+                            "description": "recon arrow B site entrance",
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Terrible Stomper"
                         }
                     ]
                 },
