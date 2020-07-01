@@ -681,7 +681,7 @@
         {
             "title": "Jett",
             "id": 4,
-            "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blade-storm-black.png",
             "thumbnails": [
                 {
                     "id": "cloud burst",
@@ -737,7 +737,7 @@
         },
         {
             "title": "Sova",
-            "id": 4,
+            "id": 5,
             "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
             "thumbnails": [
                 {
@@ -990,7 +990,7 @@
         },
         {
             "title": "Viper",
-            "id": 5,
+            "id": 6,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/vipers-pit-black.png",
             "thumbnails": [
                 {
