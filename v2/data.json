@@ -579,8 +579,177 @@
             ]
         },
         {
-            "title": "Sage",
+            "title": "Raze",
             "id": 4,
+            "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/showstopper-black.png",
+            "thumbnails": [
+                {
+                    "id": "boom bot",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/boom-bot-black.png"
+                },
+                {
+                    "id": "blast pack",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/blast-pack-black.png"
+                },
+                {
+                    "id": "paint shells",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/paint-shells-black.png"
+                },
+                {
+                    "id": "ult",
+                    "url": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/showstopper-black.png"
+                },
+                {
+                    "id": "attack",
+                    "url": ""
+                },
+                {
+                    "id": "defense",
+                    "url": ""
+                }
+            ],
+            "subTopics": [
+                {
+                    "id": 1,
+                    "title": "Ascent",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Boom Bot", "Blast Pack", "Paint Shells", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "A Short",
+                            "url": "https://youtu.be/_i10xFUboZg",
+                            "description": "A Short",
+                            "tags": ["attack", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 2,
+                            "title": "A Long",
+                            "url": "https://youtu.be/hLKVW1rMUvg",
+                            "description": "Defense A site to A Long",
+                            "tags": ["defense", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Mid",
+                            "url": "https://youtu.be/i1heUGoSV9c",
+                            "description": "Defense Mid Ult",
+                            "tags": ["defense", "ult"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 4,
+                            "title": "B Connector to B long",
+                            "url": "https://youtu.be/B9JbmNG5Bxw",
+                            "description": "B Connector to B long",
+                            "tags": ["defense", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 5,
+                            "title": "B main to triple boxes",
+                            "url": "https://youtu.be/P3hfgcRntC4",
+                            "description": "B main to triple boxes",
+                            "tags": ["defense", "attack", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 6,
+                            "title": "B main to connector",
+                            "url": "https://youtu.be/Gfe1gxgXUu8",
+                            "description": "B main to connector",
+                            "tags": ["defense", "attack", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 7,
+                            "title": "B site",
+                            "url": "https://youtu.be/aRADbFgxp_Q",
+                            "description": "B site",
+                            "tags": ["defense", "attack", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 8,
+                            "title": "B main to B site",
+                            "url": "https://youtu.be/sskVaghiDi0",
+                            "description": "B main to B site",
+                            "tags": ["defense", "attack", "paint shells"],
+                            "author": "Hotky"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Haven",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Boom Bot", "Blast Pack", "Paint Shells", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/a5Yig4sIFaU",
+                            "description": "A Heaven",
+                            "tags": ["attack", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 2,
+                            "title": "A Site",
+                            "url": "https://youtu.be/1Om55ljKrLo",
+                            "description": "A Site",
+                            "tags": ["attack", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 3,
+                            "title": "B Main",
+                            "url": "https://youtu.be/dT11bDFtnlI",
+                            "description": "B main boom bot",
+                            "tags": ["defense", "boom bot"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Garage",
+                            "url": "https://youtu.be/-0ZW3x0AEyc",
+                            "description": "Garage boom bot",
+                            "tags": ["defense", "boom bot"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 5,
+                            "title": "C Long",
+                            "url": "https://youtu.be/3uXHaRY9kIo",
+                            "description": "C Site to C Lobby",
+                            "tags": ["defense", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 6,
+                            "title": "C Lobby",
+                            "url": "https://youtu.be/xbmqpGl-tN0",
+                            "description": "C Lobby",
+                            "tags": ["defense", "paint shells"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 7,
+                            "title": "C Cubby",
+                            "url": "https://youtu.be/4kjJtrgdKhs",
+                            "description": "C Cubby",
+                            "tags": ["attack", "paint shells"],
+                            "author": "Hotky"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sage",
+            "id": 5,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/resurrection-black.png",
             "thumbnails": [
                 {
@@ -737,7 +906,7 @@
         },
         {
             "title": "Sova",
-            "id": 5,
+            "id": 6,
             "topicThumbnailUrl": "https://github.com/Blunix9/valorant-icons/raw/master/png/black/hunters-fury-black.png",
             "thumbnails": [
                 {
@@ -762,6 +931,62 @@
                 }
             ],
             "subTopics": [
+                {
+                    "id": 1,
+                    "title": "Ascent",
+                    "filters": ["All", "Attack", "Defense"],
+                    "subfilters": ["All", "Recon Arrow", "Shock Dart", "Ult"],
+                    "videos": [
+                        {
+                            "id": 1,
+                            "title": "A site",
+                            "url": "https://youtu.be/WRvb_lK1Q8I",
+                            "description": "Recon arrow A site",
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id":  2,
+                            "title": "A lobby",
+                            "url": "https://youtu.be/A1T0rBZi5j8",
+                            "description": "Recon arrow A lobby",
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id":  3,
+                            "title": "Mid",
+                            "url": "https://youtu.be/fOFu9Kxegkg",
+                            "description": "Recon arrow Mid",
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id":  4,
+                            "title": "B Giraffe",
+                            "url": "https://youtu.be/emMGoFubGhg",
+                            "description": "Recon arrow B Giraffe",
+                            "tags": ["attack", "recon arrow"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id":  5,
+                            "title": "Market to B site",
+                            "url": "https://youtu.be/MkMiGz2x4DY",
+                            "description": "Recon arrow Market to B site",
+                            "tags": ["attack", "defense", "recon arrow"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id":  6,
+                            "title": "B lobby",
+                            "url": "https://youtu.be/7RC1mujhOws",
+                            "description": "B site to B lobby",
+                            "tags": ["defense", "recon arrow"],
+                            "author": "Hotky"
+                        }
+                    ]
+                },
                 {
                     "id": 2,
                     "title": "Bind",
@@ -990,7 +1215,7 @@
         },
         {
             "title": "Viper",
-            "id": 6,
+            "id": 7,
             "topicThumbnailUrl": "https://raw.githubusercontent.com/Blunix9/valorant-icons/master/png/black/vipers-pit-black.png",
             "thumbnails": [
                 {
@@ -1104,7 +1329,63 @@
                             "description": "A Site to A Tree one-way",
                             "tags": ["defense", "smoke"],
                             "author": "Terrible Stomper"
-                        } 
+                        },  
+                        {
+                            "id": 11,
+                            "title": "A Site",
+                            "url": "https://youtu.be/AaFY9J0LRpA",
+                            "description": "A Site smoke",
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 12,
+                            "title": "A Site Wall",
+                            "url": "https://youtu.be/LzY064oVQIA",
+                            "description": "A Site smoke",
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 13,
+                            "title": "A Heaven",
+                            "url": "https://youtu.be/nCSKs0x2IFc",
+                            "description": "A Heaven snake bite",
+                            "tags": ["attack", "bite"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 14,
+                            "title": "B Wall",
+                            "url": "https://youtu.be/6Wx6zd6ikbc",
+                            "description": "B site wall",
+                            "tags": ["attack", "wall"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 15,
+                            "title": "B Site",
+                            "url": "https://youtu.be/iH5GYKYFPKE",
+                            "description": "B site smoke",
+                            "tags": ["attack", "smoke"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 16,
+                            "title": "B Connector",
+                            "url": "https://youtu.be/gimhTN3k2xw",
+                            "description": "B Connector snake bite",
+                            "tags": ["attack", "bite"],
+                            "author": "Hotky"
+                        },
+                        {
+                            "id": 17,
+                            "title": "Mid",
+                            "url": "https://youtu.be/Sg6UZlS2mXk",
+                            "description": "Mid wall",
+                            "tags": ["attack", "defense", "wall"],
+                            "author": "Hotky"
+                        }
                     ]
                 },
                 {
